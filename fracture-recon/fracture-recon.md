@@ -1,7 +1,5 @@
 # Fracture: Recon
 
-### Skirmish Battles in a Fractured Galaxy
-
 ![Last Stand](/images/last_stand.png "Last Stand by u/pidgeon_pete")
 
 ### Unit Special Rules
