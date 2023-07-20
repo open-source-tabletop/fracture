@@ -7,6 +7,8 @@ aegis - standard frontline
 goliath - super heavy 
 vanguard - assault armour
 
+mix of weapon options to build different units 
+
 vehicles
 
 Nemesis walkers
