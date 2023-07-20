@@ -2,17 +2,17 @@ Armoured sci-fi supersoldiers
 
 3 standard armours
 
-hunter - light recon
-aegis - standard frontline 
-goliath - super heavy 
-vanguard - assault armour
+Nyx - light recon
+Apollo - standard frontline 
+Atlas - super heavy 
+Phobos - assault armour
 
 mix of weapon options to build different units 
 
 vehicles
 
-Nemesis walkers
-Nova assault bikes
-crusader tank
-Invictus transport
-Valkyrie aircraft 
+Colossus walkers
+Iris assault bikes
+Cerberus tank
+Argo transport
+Ares aircraft 
