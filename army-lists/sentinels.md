@@ -2,59 +2,103 @@
 
 ## Army List
 
+
+
 ### Command Units
 
-#### Sentinel Commander
+#### Commander
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard Recon Armour      |  6  |  7" |  2+ |  4+ |  5  |  5  |                           |
-Vanguard Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           |
-Vanguard Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  |                           |
-Vanguard Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  |                           |
+A Commander unit consists on 1 Commander model in Recon, Frontline, Assault, or Heavy Armour.
 
-#### Sentinel Lieutenant
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Commander in Recon Armour      |  6  |  7" |  2+ |  4+ |  5  |  5  |                           | 75
+Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100
+Commander in Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  |                           | 120
+Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  |                           | 160
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard Recon Armour      |  5  |  7" |  2+ |  4+ |  4  |  4  |                           |
-Vanguard Frontline Armour  |  5  |  6" |  2+ |  3+ |  4  |  4  |                           |
-Vanguard Assault Armour    |  5  |  10"|  2+ |  3+ |  4  |  4  |                           |
-Vanguard Heavy Armour      |  4  |  5" |  2+ |  2+ |  5  |  4  |                           |
+#### Lieutenant
 
-#### Sentinel 
+A Lieutenant unit consists on 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Lietuenant in Recon Armour     |  5  |  7" |  2+ |  4+ |  4  |  4  |                           | 38
+Lietuenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 50
+Lietuenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  |                           | 65
+Lietuenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |                           | 90
+
+
 
 ### Standard Units
 
-#### Sentinel Vanguard Squad
+#### Vanguard Squad
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard Recon Armour      |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 15
-Vanguard Frontline Armour  |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 22
-Vanguard Heavy Armour      |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 40
+A Vanguard unit consists on 5 Vanguard models in Recon, Frontline, or Assault Armour.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Vanguard in Recon Armour       |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 18
+Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
+Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
+
+#### Vanguard Heavy Squad
+
+A Vanguard Heavy Squad consists of 3-5 Vanguard models in Heavy Armour.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
+
+#### Argo Transport
+
+An Argo Transport unit consists of 1 Argo Transport model.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Argo Transport                 |  4  |  9" |  3+ |  3+ |  8  |  8  | Vehicle, Transport (10), Heavy Armour (1) | 190
 
 
-#### Argo transport
 
 ### Specialist Units
 
-#### Sentinel Specialist Squad
+#### Specialist Squad
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard Recon Armour      |  4  |  7" |  3+ |  4+ |  4  |  2  |                           |
-Vanguard Frontline Armour  |  4  |  6" |  3+ |  3+ |  4  |  2  |                           |
-Vanguard Assault Armour    |  4  |  10"|  3+ |  3+ |  4  |  2  |                           |
-Vanguard Heavy Armour      |  4  |  5" |  3+ |  2+ |  5  |  2  |                           |
+A Specialist unit consists on 5 Specialist models in Recon, Frontline, or Assault Armour.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Specialist in Recon Armour     |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 18
+Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
+Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
+
+#### Specialist Heavy Squad
+
+A Specialist Heavy Squad consists of 3-5 Specialist models in Heavy Armour.
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
 
 #### Colossus Walker
 
-#### Assault bikes
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  8  | Heavy Armour (2)          | 210
 
-#### Cerberus tank
+#### Assault Bikes
 
-## Summary
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Assault Bike                   |  4  | 10" |  3+ |  3+ |  5  | 3   |                           | 55
+
+#### Cerberus Tank
+
+Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, Heavy Armour (2) | 250
+
+## Equipment
 
 ### Weapons
 
