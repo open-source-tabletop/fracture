@@ -119,7 +119,7 @@ Enforcer HMG
 Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
 :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
 Enforcer Pistol            |  8" |  1  |  4  |  1  | Assault                              | 0
-Enforcer Rifle             |  24"|  2  |  4  |  1  | Rapid Fire (1)                       | 0
+Enforcer Rifle             |  20"|  3  |  4  |  1  |                                      | 0
 Enforcer Carbine           |  20"|  3  |  4  |  0  |                                      | 0
 Enforcer Sniper Rifle      |  30"|  2  |  4  |  1  | Accurate, Destructive (2), Heavy     | 5
 Enforcer AT Rifle          |  30"|  1  |  6  |  4  | Destructive (4), Heavy               | 8
