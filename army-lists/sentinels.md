@@ -102,15 +102,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 
 ### Weapons
 
-#### Standard Weapons
-
-Enforcer Pistol, Enforcer Rifle, Carbine, Enforcer SMG
-
-#### Heavy Weapons
-
-Enforcer LMG, Enforcer Sniper Rifle, Enforcer AT Rifle
-
-#### Sidearm
+#### Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
