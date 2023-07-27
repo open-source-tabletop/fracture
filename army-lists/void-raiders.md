@@ -114,11 +114,11 @@ Thrall Construct           |  4  |  8" |  2+ |  3+ |  6  |  12 |                
 
 Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
 :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
-Dark Matter Pistol         |  8" |  2  |  3  |  2  | Assault, Shred                       | 2
-Dark Matter Blaster        |  18"|  4  |  4  |  3  | Shred                                | 5
-Dark Matter Cannon         |  32"|  3  |  6  |  3  | Heavy, Shred                         | 8
-Heavy Dark Matter Cannon   |  38"|  5  |  6  |  4  | Heavy, Shred                         | 12
-Shard Pistol               |  8" |  1  |  3  |  0  | Assault                              | 0
-Shard Rifle                |  24"|  2  |  3  |  0  | Rapid Fire (1)                       | 0
-Shard Cannon               |  30"|  3  |  5  |  1  | Heavy, Rending (2), Shred            | 4
-Heavy Shard Cannon         |  42"|  4  |  5  |  1  | Heavy, Rending (2), Shred            | 6
+Dark Matter Pistol         | 8"  |  2  |  3  |  2  | Assault, Shred                       | 2
+Dark Matter Blaster        | 12" |  4  |  4  |  3  | Shred                                | 5
+Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 8
+Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 12
+Shard Pistol               | 8"  |  1  |  3  |  0  | Assault                              | 0
+Shard Rifle                | 18" |  4  |  3  |  0  |                                      | 0
+Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 4
+Heavy Shard Cannon         | 32" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 6
