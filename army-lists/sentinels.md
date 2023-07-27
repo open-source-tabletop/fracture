@@ -8,7 +8,7 @@
 
 #### Commander
 
-A Commander unit consists on 1 Commander model in Recon, Frontline, Assault, or Heavy Armour.
+A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or Heavy Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
@@ -19,7 +19,7 @@ Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  |            
 
 #### Lieutenant
 
-A Lieutenant unit consists on 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour.
+A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
@@ -34,7 +34,7 @@ Lietuenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |            
 
 #### Vanguard Squad
 
-A Vanguard unit consists on 5 Vanguard models in Recon, Frontline, or Assault Armour.
+A Vanguard unit consists of 5 Vanguard models all in either Recon, Frontline, or Assault Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
@@ -64,7 +64,7 @@ Argo Transport                 |  4  |  9" |  3+ |  3+ |  8  |  8  | Vehicle, Tr
 
 #### Specialist Squad
 
-A Specialist unit consists on 5 Specialist models in Recon, Frontline, or Assault Armour.
+A Specialist unit consists of 5 Specialist models all in either Recon, Frontline, or Assault Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
