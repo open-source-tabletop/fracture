@@ -98,17 +98,23 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, Heavy Armour (2) | 250
 
-## Equipment
+## Weapons
 
-### Weapons
-
-#### Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Pistol            | 8"  |  1  |  4  |  1  | Assault                              | 2      |
+| Sentinel Combat Blade      | 1"  |  2  |  4  |  0  | Assault                              | 0      |
 
-#### Regular Weapons
+### Specialist Sidearms
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Fusion Pistol              | 6"  |  1  |  6  |  3  | Assault, Destructive (2)             | 12     |
+| Plasma Pistol              | 8"  |  1  |  5  |  2  | Assault, Overcharge                  | 12     |
+
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -118,14 +124,17 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
 | Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 4      |
 
-#### Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
+| Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 15     |
+| Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 25     |
 
-#### Heavy Weapons
+### Heavy Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer HMG               | 24" |  3  |  5  |  1  | Rapid Fire (1)                       | 16     |
+| Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
