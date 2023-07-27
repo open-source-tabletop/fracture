@@ -104,25 +104,36 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 
 #### Standard Weapons
 
-Enforcer Pistol, Rifle, Carbine, Enforcer SMG
+Enforcer Pistol, Enforcer Rifle, Carbine, Enforcer SMG
 
 #### Heavy Weapons
 
 Enforcer LMG, Enforcer Sniper Rifle, Enforcer AT Rifle
 
-#### Mounted Weapons
-
-Enforcer HMG
-
-#### Main Weapons
+#### Sidearm
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Enforcer Pistol            | 8"  |  1  |  4  |  1  | Assault                              | 0      |
-| Enforcer Rifle             | 20" |  3  |  4  |  1  |                                      | 0      |
-| Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 0      |
-| Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 6      |
-| Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 12     |
-| Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 0      |
-| Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 6      |
-| Enforcer HMG               | 24" |  3  |  5  |  2  | Rapid Fire (1)                       | 10     |
+| Enforcer Pistol            | 8"  |  1  |  4  |  1  | Assault                              | 2      |
+
+#### Regular Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 3      |
+| Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 4      |
+| Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
+| Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
+| Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 4      |
+
+#### Specialist Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
+
+#### Heavy Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Enforcer HMG               | 24" |  3  |  5  |  1  | Rapid Fire (1)                       | 16     |
