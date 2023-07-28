@@ -105,6 +105,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Pistol            | 8"  |  1  |  4  |  1  | Assault                              | 2      |
+| Heavy Enforcer Pistol      | 10" |  1  |  4  |  2  | Assault                              | 4      |
 | Sentinel Combat Blade      | 1"  |  2  |  4  |  0  | Assault                              | 0      |
 
 ### Specialist Sidearms
@@ -131,6 +132,8 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
 | Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 15     |
 | Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 25     |
+| Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
+| Heavy Plasma Rifle         | 24" |  2  |  6  |  3  | Overcharge                           | 16     |
 
 ### Heavy Weapons
 
@@ -138,3 +141,4 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer HMG               | 24" |  3  |  5  |  1  | Rapid Fire (1)                       | 16     |
 | Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
+| Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge                | 40     |
