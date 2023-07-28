@@ -133,8 +133,8 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
 | Concussion Hammer          | 1"  |  2  |  6  |  2  | Assault, Destructive (2)             | 10     |
 | Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
-| Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 15     |
-| Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 25     |
+| Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 18     |
+| Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 26     |
 | Heavy Plasma Rifle         | 24" |  2  |  6  |  3  | Overcharge                           | 16     |
 | Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
 
