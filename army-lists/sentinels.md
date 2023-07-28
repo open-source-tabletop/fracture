@@ -23,10 +23,10 @@ A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, o
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Lieutenant in Recon Armour     |  5  |  7" |  2+ |  4+ |  4  |  4  |                           | 38
-Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 50
-Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  |                           | 65
-Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |                           | 90
+Lieutenant in Recon Armour     |  5  |  7" |  2+ |  4+ |  4  |  4  |                           | 40
+Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
+Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  |                           | 78
+Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |                           | 96
 
 
 
