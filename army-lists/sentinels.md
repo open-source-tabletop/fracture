@@ -34,7 +34,7 @@ Lietuenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |            
 
 #### Vanguard Squad
 
-A Vanguard unit consists of 5 Vanguard models all in either Recon, Frontline, or Assault Armour.
+A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, or Assault Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
@@ -64,7 +64,7 @@ Argo Transport                 |  4  |  9" |  3+ |  3+ |  8  |  8  | Vehicle, Tr
 
 #### Specialist Squad
 
-A Specialist unit consists of 5 Specialist models all in either Recon, Frontline, or Assault Armour.
+A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontline, or Assault Armour.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
