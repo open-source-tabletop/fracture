@@ -105,7 +105,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Pistol            | 8"  |  1  |  4  |  1  | Assault                              | 2      |
-| Heavy Enforcer Pistol      | 10" |  1  |  4  |  2  | Assault                              | 4      |
+| Heavy Enforcer Pistol      | 10" |  1  |  4  |  2  | Assault                              | 3      |
 | Sentinel Combat Blade      | 1"  |  2  |  4  |  0  | Assault                              | 0      |
 
 ### Specialist Sidearms
@@ -124,16 +124,19 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
 | Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
 | Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 4      |
+| Sentinel Assault Blade     | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 ### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
+| Concussion Hammer          | 1"  |  2  |  6  |  2  | Assault, Destructive (2)             | 10     |
 | Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
 | Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 15     |
 | Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 25     |
-| Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
 | Heavy Plasma Rifle         | 24" |  2  |  6  |  3  | Overcharge                           | 16     |
+| Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
 
 ### Heavy Weapons
 
