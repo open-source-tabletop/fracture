@@ -28,7 +28,7 @@ A Warriors unit consists of 10 Warrior models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 9
+Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 10
 
 #### Blades
 
@@ -36,7 +36,7 @@ A Blades unit consists of 10 Blade models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Blade                      |  4  |  7" |  3+ |  6+ |  4  |  1  |                           | 8
+Blade                      |  4  |  8" |  3+ |  6+ |  4  |  1  |                           | 10
 
 #### Spectres
 
@@ -114,11 +114,11 @@ Thrall Construct           |  4  |  8" |  2+ |  3+ |  6  |  12 |                
 
 Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
 :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
-Dark Matter Pistol         | 8"  |  2  |  3  |  2  | Assault, Shred                       | 2
-Dark Matter Blaster        | 12" |  4  |  4  |  3  | Shred                                | 5
-Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 8
-Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 12
-Shard Pistol               | 8"  |  1  |  3  |  0  | Assault                              | 0
-Shard Rifle                | 18" |  4  |  3  |  0  |                                      | 0
-Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 4
-Heavy Shard Cannon         | 32" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 6
+Dark Matter Pistol         | 8"  |  2  |  3  |  2  | Assault, Shred                       | 8
+Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18
+Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18
+Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22
+Shard Pistol               | 8"  |  2  |  3  |  0  | Assault                              | 1
+Shard Rifle                | 18" |  3  |  3  |  0  | Rending (1)                          | 3
+Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10
+Heavy Shard Cannon         | 30" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16
