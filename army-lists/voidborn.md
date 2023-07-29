@@ -137,4 +137,9 @@ Skimmer Tank
 
 #### Mounted Primary Weapons
 
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Heavy Dark Matter Cannnon  | 32" |  4  |  6  |  4  | Destructive (2), Heavy, Shred        | 36     |
+| Heavy Shard Repeater       | 28" |  4  |  5  |  1  | Rapid Fire (2), Heavy, Shred         | 38     |
+
 ## Equipment
