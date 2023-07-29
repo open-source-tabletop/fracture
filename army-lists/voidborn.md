@@ -1,4 +1,4 @@
-# Void Raiders
+# Voidborn
 
 ## Army List
 
@@ -29,14 +29,6 @@ A Warriors unit consists of 10 Warrior models.
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 8
-
-#### Blades
-
-A Blades unit consists of 10 Blade models.
-
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Blade                      |  4  |  8" |  3+ |  5+ |  4  |  1  |                           | 8
 
 #### Spectres
 
@@ -110,15 +102,27 @@ Thrall Construct           |  4  |  8" |  2+ |  3+ |  6  |  12 |                
 
 #### Mounted Weapons
 
-#### Main Weapons
+#### Standard Sidearms
 
 Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
 :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
 Dark Matter Pistol         | 8"  |  2  |  3  |  2  | Assault, Shred                       | 8
-Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18
-Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18
-Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22
 Shard Pistol               | 8"  |  2  |  3  |  0  | Assault                              | 1
+
+#### Standard Weapons
+
+Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
+:------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
 Shard Rifle                | 16" |  4  |  3  |  0  | Rending (2)                          | 3
 Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10
+
+#### Specialist Weapons
+
+Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points
+:------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :-----
+Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22
 Heavy Shard Cannon         | 30" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16
+Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18
+Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18
+
+
