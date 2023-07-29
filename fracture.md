@@ -1,5 +1,10 @@
 # Fracture
 
+200 Encounter
+400 Skirmish
+800 Battle
+1200 War
+
 | Special Rule | Effect |
 | :----------- | :----- |
 | Rugged | This model ignores the Heavy special rule. |
