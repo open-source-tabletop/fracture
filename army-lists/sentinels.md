@@ -120,7 +120,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 3      |
 | Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 4      |
-| Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 4      |
+| Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 5      |
 | Sentinel Assault Blade     | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 ### Specialist Weapons
@@ -130,7 +130,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
 | Concussion Hammer          | 1"  |  2  |  6  |  2  | Assault, Destructive (2)             | 10     |
 | Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
-| Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
+| Enforcer LMG               | 24" |  2  |  5  |  1  | Rapid Fire (1), Volley               | 8      |
 | Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
 | Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 18     |
 | Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 26     |
