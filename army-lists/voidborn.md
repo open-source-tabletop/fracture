@@ -8,13 +8,19 @@
 
 #### Elder
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Raider Lord                |  6  |  7" |  2+ |  5+ |  4  |  5  |                           |
+An Elder unit consists of 1 Elder model. You may only include 1 Elder in your army.
 
-#### Seer
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Elder                      |  6  |  7" |  2+ |  5+ |  5  |  8  |                           | 80?    |
 
 #### Elite
+
+An Elite unit consists of 1 Elite model. You may only include one Elite in your army.
+
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Elite                      |  5  |  7" |  3+ |  5+ |  4  |  4  |                           | 40     |
 
 ### Standard Units
 
@@ -22,21 +28,13 @@ Raider Lord                |  6  |  7" |  2+ |  5+ |  4  |  5  |                
 
 A Warriors unit consists of 5-10 Warrior models.
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 8
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 8      |
 
 - Each Warrior must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** weapons lists.
 - One Warrior may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
 - One Warrior for every 5 in the unit may swap 1 weapon with a weapon from the **Specialist Weapons** list.
-
-#### Pariahs
-
-A Pariahs unit consists of 3 Pariah models.
-
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Pariah                     |  4  |  9" |  3+ |  5+ |  4  |  1  | Flying                    | 12
 
 #### Ark
 
@@ -74,13 +72,6 @@ Oathsworn                  |  4  |  7" |  3+ |  4+ |  4  |  1  |                
 
 - Each Oathsworn must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 
-#### Harbingers
-
-A Spectres unit consists of 5 Spectre models.
-
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Spectre                    |  4  | 12" |  3+ |  5+ |  4  |  1  | Flying                    | 14
 
 #### Construct
 
@@ -90,7 +81,7 @@ Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules  
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Thrall                     |  4  |  6" |  3+ |  4+ |  6  |  2  |                           | 15
 
-#### Construct Elder
+#### Construct Strider
 
 A Thrall Construct Unit consists of 1 Thrall Construct model.
 
@@ -128,8 +119,7 @@ Skimmer Tank
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Shard Rifle                | 16" |  4  |  3  |  0  | Rending (2)                          | 3      |
-| Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10     |
-| Phaseblade                 | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
+| Nanosword                  | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 #### Specialist Weapons
 
@@ -137,11 +127,13 @@ Skimmer Tank
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
 | Heavy Shard Cannon         | 30" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
+| Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10     |
 | Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18     |
 | Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18     |
 | Sniper
 | Rockets
 | Powerful blades
 | Melta
+| Phaseblade                 | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
 
 ## Equipment
