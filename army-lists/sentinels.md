@@ -21,7 +21,7 @@ Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large      
 
 - A Commander may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Commander may select 1 weapon from the **Grenades** weapon list.
-- A Commander may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** weapons lists.
+- A Commander may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 - A Commander in Recon Armour may take the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - A Commander in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Commander in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
@@ -39,7 +39,7 @@ Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large      
 
 - A Lieutenant may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Lieutenant may select 1 weapon from the **Grenades** weapon list.
-- A Lieutenant may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** weapons lists.
+- A Lieutenant may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 - A Lieutenant in Recon Armour may take the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
@@ -61,7 +61,7 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 | Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
 | Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
-- Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** weapons lists.
+- Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** lists.
 - One Vanguard may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
 
@@ -94,7 +94,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 | Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
 | Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
-- Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** weapons lists.
+- Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** lists.
 - One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - You may upgrade all Specialists in Assault or Heavy Armour with the **Combat Shield** upgrade.
