@@ -43,6 +43,10 @@ Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |            
 Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
 Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
 
+A Vanguard may choose 1 weapon each from the Standard Sidearms, Grenades, and Standard Weapons weapons lists.
+
+One Vanguard may also choose 1 weapon from either the Specialist Sidearms or Specialist Weapons lists.
+
 #### Argo Transport
 
 An Argo Transport unit consists of 1 Argo Transport model.
@@ -61,10 +65,12 @@ A Specialist unit consists of 3-5 Vanguard models all in either Recon, Frontline
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Specialist in Recon Armour     |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 18
+Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18
 Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
 Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
 Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
+
+
 
 #### Colossus Walker
 
@@ -150,11 +156,10 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent                   | 18     |
 | Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge                | 40     |
 
-## Equipment
+## Equipment and Upgrades
 
-### Specialist Equipment
-
-| Item | Effect | Points |
-| :--- | :----- | :----: |
+| Upgrade | Effect | Points |
+| :------ | :----- | :----: |
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
+| Advanced Scout | This model may be deployed from reserve up to double it's Movement attribute in inches. | 4 |
