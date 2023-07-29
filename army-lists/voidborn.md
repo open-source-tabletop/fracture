@@ -119,21 +119,22 @@ Skimmer Tank
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Shard Rifle                | 16" |  4  |  3  |  0  | Rending (2)                          | 3      |
+| Shard Reaper               | 28" |  3  |  3  |  1  |                                      | 4      |
 | Nanosword                  | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 #### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
-| Heavy Shard Cannon         | 30" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
-| Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10     |
-| Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18     |
+| Dark Matter Cannon         | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
+| Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
 | Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18     |
 | Sniper
 | Rockets
 | Powerful blades
 | Melta
 | Phaseblade                 | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
+
+#### Mounted Primary Weapons
 
 ## Equipment
