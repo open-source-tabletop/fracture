@@ -12,7 +12,7 @@ A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or 
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Commander in Recon Armour      |  6  |  7" |  2+ |  4+ |  5  |  5  |                           | 75
+Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75
 Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100
 Commander in Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  |                           | 120
 Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  |                           | 160
@@ -23,7 +23,7 @@ A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, o
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Lieutenant in Recon Armour     |  5  |  7" |  2+ |  4+ |  4  |  4  |                           | 40
+Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40
 Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
 Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  |                           | 78
 Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |                           | 96
@@ -38,7 +38,7 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard in Recon Armour       |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 18
+Vanguard in Recon Armour       |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18
 Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
 Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
 Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
@@ -61,7 +61,7 @@ A Specialist unit consists of 3-5 Vanguard models all in either Recon, Frontline
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Specialist in Recon Armour     |  4  |  7" |  3+ |  4+ |  4  |  2  |                           | 18
+Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18
 Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
 Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
 Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
@@ -120,10 +120,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 3      |
 | Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 4      |
-| Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
-| Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
 | Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 4      |
-| Incinerator                | 10" |  6  |  3  |  0  | Blast (2), Torrent                   | 12     |
 | Sentinel Assault Blade     | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 ### Specialist Weapons
@@ -132,11 +129,14 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
 | Concussion Hammer          | 1"  |  2  |  6  |  2  | Assault, Destructive (2)             | 10     |
+| Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
 | Enforcer LMG               | 24" |  4  |  5  |  1  | Volley                               | 8      |
+| Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
 | Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 18     |
 | Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 26     |
 | Heavy Incinerator          | 12" |  6  |  4  |  0  | Blast (2), Torrent                   | 15     |
 | Heavy Plasma Rifle         | 24" |  2  |  6  |  3  | Overcharge                           | 16     |
+| Incinerator                | 10" |  5  |  3  |  0  | Blast (2), Torrent                   | 10     |
 | Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
 | Sentinel Missile Launcher  | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     | 
 | Twin Burnblades            | 1"  |  4  |  4  |  3  | Assault, Rending (1)                 | 10     |
