@@ -4,29 +4,47 @@
 
 
 
+
+
 ### Command Units
 
 #### Commander
 
-A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or Heavy Armour.
+A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or Heavy Armour. You may only include 1 Commander in your army.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75
 Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100
-Commander in Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  |                           | 120
-Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  |                           | 160
+Commander in Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  | Large                     | 120
+Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large                     | 160
+
+- A Commander may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
+- A Commander may select 1 weapon from the **Grenades** weapon list.
+- A Commander may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** weapons lists.
+- A Commander in Recon Armour may take the **Advanced Scouts** and **Camo Cloaks** upgrades.
+- A Commander in Assault or Heavy Armour may take the **Combat Shield** upgrade.
+- A Commander in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
 #### Lieutenant
 
-A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour.
+A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour. You may only include one Lieutenant in your army.
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40
 Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
-Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  |                           | 78
-Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |                           | 96
+Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  | Large                     | 78
+Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large                     | 96
+
+- A Lieutenant may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
+- A Lieutenant may select 1 weapon from the **Grenades** weapon list.
+- A Lieutenant may select 1 weapon from either the **Standard Weapons** or **Specialist Weapons** weapons lists.
+- A Lieutenant in Recon Armour may take the **Advanced Scouts** and **Camo Cloaks** upgrades.
+- A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade.
+- A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
+
+
 
 
 
@@ -36,24 +54,30 @@ Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  |            
 
 A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, Assault, or Heavy Armour.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Vanguard in Recon Armour       |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18
-Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
-Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
-Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Vanguard in Recon Armour       |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
+| Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
+| Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
+| Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
-A Vanguard may choose 1 weapon each from the Standard Sidearms, Grenades, and Standard Weapons weapons lists.
-
-One Vanguard may also choose 1 weapon from either the Specialist Sidearms or Specialist Weapons lists.
+- Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** weapons lists.
+- One Vanguard may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
+- You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
 
 #### Argo Transport
 
 An Argo Transport unit consists of 1 Argo Transport model.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Argo Transport                 |  4  |  9" |  3+ |  3+ |  8  |  8  | Vehicle, Transport (10), Heavy Armour (1) | 190
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
+| Argo Transport                 |  4  |  8" |  3+ |  3+ |  7  |  6  | Transport (6), Heavy Armour (1) | 190    | 
+
+- An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
+- An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- An Argo Transport may take the **Vehicle Energy Shields** upgrade.
+
+
 
 
 
@@ -61,36 +85,43 @@ Argo Transport                 |  4  |  9" |  3+ |  3+ |  8  |  8  | Vehicle, Tr
 
 #### Specialist Squad
 
-A Specialist unit consists of 3-5 Vanguard models all in either Recon, Frontline, Assault, or Heavy Armour.
+A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontline, Assault, or Heavy Armour.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18
-Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24
-Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  |                           | 32
-Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  |                           | 44
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
+| Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
+| Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
+| Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
-
+- Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** weapons lists.
+- One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list.
+- You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
+- You may upgrade all Specialists in Assault or Heavy Armour with the **Combat Shield** upgrade.
 
 #### Colossus Walker
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  8  | Heavy Armour (2)          | 210
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  8  | Heavy Armour (2), Vehicle | 210
 
 #### Assault Bikes
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Assault Bike                   |  4  | 10" |  3+ |  3+ |  5  | 3   |                           | 55
+Assault Bike                   |  4  | 10" |  3+ |  3+ |  5  | 3   | Vehicle                   | 55
 
 #### Cerberus Tank
 
+A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberus Tank in your army.
+
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, Heavy Armour (2) | 250
+Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, Heavy Armour (1) | 320
 
-
+- A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weapons** list.
+- A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- A Cerberus Tank may take the **Vehicle Energy Shields** upgrade.
 
 
 
@@ -124,7 +155,7 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 3      |
+| Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 4      |
 | Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 4      |
 | Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 5      |
 | Sentinel Assault Blade     | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
@@ -147,19 +178,31 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  10 | Vehicle, He
 | Sentinel Missile Launcher  | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     | 
 | Twin Burnblades            | 1"  |  4  |  4  |  3  | Assault, Rending (1)                 | 10     |
 
-### Heavy Weapons
+### Mounted Primary Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Twin Heavy Autocannon      | 24" |  4  |  4  |  2  | Rapid Fire (1), Rending (1), Heavy   | 22     |
+| Heavy Cannon               | 30" |  2  |  8  |  4  | Destructive (3), Heavy               | 60     |
+| Laser Destroyer            | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 24     |
+| Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
+| Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent, Heavy            | 18     |
+| Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 40     |
+
+### Mounted Secondary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer HMG               | 24" |  3  |  5  |  1  | Rapid Fire (1)                       | 16     |
-| Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
-| Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent                   | 18     |
-| Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge                | 40     |
+| Heavy Autocannon           | 24" |  3  |  4  |  2  | Rapid Fire (1)                       | 16     |
+| Mounted Incinerator        | 10" |  4  |  3  |  0  | Blast (2), Torrent                   | 8      |
 
-## Equipment and Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |
+| Advanced Scouts | This model may be deployed from reserve up to double it's Movement attribute in inches. | 4 |
+| Camo Cloaks | This model gains the Stealth (12) special rule. | 10 |
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
-| Advanced Scout | This model may be deployed from reserve up to double it's Movement attribute in inches. | 4 |
+| Vehicle Energy Shields | This model gains the Shields special rule. | 60 |

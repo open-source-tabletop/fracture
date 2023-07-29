@@ -28,7 +28,7 @@ A Warriors unit consists of 10 Warrior models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 10
+Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 8
 
 #### Blades
 
@@ -36,7 +36,7 @@ A Blades unit consists of 10 Blade models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Blade                      |  4  |  8" |  3+ |  6+ |  4  |  1  |                           | 10
+Blade                      |  4  |  8" |  3+ |  5+ |  4  |  1  |                           | 8
 
 #### Spectres
 
@@ -44,7 +44,7 @@ A Spectres unit consists of 5 Spectre models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Spectre                    |  4  | 12" |  3+ |  6+ |  4  |  1  | Flying                    | 14
+Spectre                    |  4  | 12" |  3+ |  5+ |  4  |  1  | Flying                    | 14
 
 #### Reavers
 
@@ -68,7 +68,7 @@ An Ark unit consists of 1 Ark model.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Ark                        |  4  | 10" |  4+ |  4+ |  6  |  8  | Flying                    | 100
+Ark                        |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 100
 
 
 
@@ -80,7 +80,7 @@ A Pariahs unit consists of 3 Pariah models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Pariah                     |  4  |  9" |  3+ |  6+ |  4  |  1  | Flying                    | 12
+Pariah                     |  4  |  9" |  3+ |  5+ |  4  |  1  | Flying                    | 12
 
 #### Thralls
 
@@ -119,6 +119,6 @@ Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred           
 Dark Matter Cannon         | 24" |  3  |  5  |  3  | Heavy, Shred                         | 18
 Heavy Dark Matter Cannon   | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22
 Shard Pistol               | 8"  |  2  |  3  |  0  | Assault                              | 1
-Shard Rifle                | 18" |  3  |  3  |  0  | Rending (1)                          | 3
+Shard Rifle                | 16" |  4  |  3  |  0  | Rending (2)                          | 3
 Shard Cannon               | 24" |  3  |  5  |  1  | Heavy, Rending (2), Shred            | 10
 Heavy Shard Cannon         | 30" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16

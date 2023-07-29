@@ -1,13 +1,20 @@
 # Fracture
 
-200 Encounter
-400 Skirmish
-800 Battle
-1200 War
+250 Encounter - ignore unit sizes, all are 1 - no model over 100 points after weapons, no vehicles, no command, max 2 grenades
+500 Skirmish
+1000 Battle
+1500 Large Battle
+
+Vehicles
+- Fire up to 2 weapons
+- Weapon points
+
+Transport
 
 | Special Rule | Effect |
 | :----------- | :----- |
 | Rugged | This model ignores the Heavy special rule. |
+| Large | This model counts as 2 models for calculating how many models a Transport can carry. |
 
 | Special Rule | Effect |
 | :----------- | :----- |
