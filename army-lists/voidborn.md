@@ -34,7 +34,7 @@ A Warriors unit consists of 5-10 Warrior models.
 
 - Each Warrior must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** weapons lists.
 - One Warrior may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
-- One Warrior for every 5 in the unit may swap 1 weapon with a weapon from the **Specialist Weapons** list.
+- One Warrior for every 5 in the unit may swap 1 weapon with a weapon from the **Specialist Weapons** or **Heavy Weapons** list.
 
 #### Ark
 
@@ -71,7 +71,6 @@ Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules  
 Oathsworn                  |  4  |  7" |  3+ |  4+ |  4  |  1  |                           | 10
 
 - Each Oathsworn must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
-
 
 #### Construct
 
@@ -126,14 +125,19 @@ Skimmer Tank
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Dark Matter Cannon         | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
-| Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
 | Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18     |
 | Sniper
-| Rockets
 | Powerful blades
 | Melta
-| Phaseblade                 | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
+| Phaseblades                | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
+
+#### Heavy Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Dark Matter Cannon         | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
+| Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
+| Rockets
 
 #### Mounted Primary Weapons
 
