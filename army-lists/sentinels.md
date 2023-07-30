@@ -206,3 +206,17 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, He
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
 | Vehicle Energy Shields | This model gains the Shields special rule. | 60 |
+
+## Mission
+
+### Linebreaker
+
+This mission sees the Sentinels doing what they do best, being used as the tip of the spear.
+
+3 Control objectives placed 9 inches away from any table edge by the defender
+
+The sentinel player gains 2 command points for each objective they hold at the end of each round starting with round 2 plus 2 victory points if they control all 3.
+
+The defending player scores 1 victory point for each they control at the end of every round plus 2 if the sentinels control none starting at the end of round 2
+
+the defending player may place up to 3 units on the table as though they had deployed but they may not be placed within 6 inches of an objective 
