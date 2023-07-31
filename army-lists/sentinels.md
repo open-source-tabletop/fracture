@@ -209,14 +209,14 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, He
 
 ## Mission
 
-### Linebreaker
+### The Tip of the Spear
 
-This mission sees the Sentinels doing what they do best, being used as the tip of the spear.
+The Sentinel player is the attacker in this mission with the other player taking the role as Defender.
 
-3 Control objectives placed 9 inches away from any table edge by the defender
+#### Objectives
 
-The sentinel player gains 2 command points for each objective they hold at the end of each round starting with round 2 plus 2 victory points if they control all 3.
+The defender should place 4 Control objectives anywhere on the battlefield, so long as they are at least 9 inches from a table edge or any other objective marker.
 
-The defending player scores 1 victory point for each they control at the end of every round plus 2 if the sentinels control none starting at the end of round 2
+#### Entry Points
 
-the defending player may place up to 3 units on the table as though they had deployed but they may not be placed within 6 inches of an objective 
+The attacking player places 3 entry points within 6 inches of the centre of the battlefield. The defending player does not place any Entry Points, instead they must place all of their units on the battlefield within 9 inches of the edge of the table.
