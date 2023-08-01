@@ -12,7 +12,7 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75
 Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100
-Commander in Assault Armour    |  6  |  10"|  2+ |  3+ |  5  |  5  | Large                     | 120
+Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Flying, Large             | 120
 Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large                     | 160
 
 - A Commander may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
@@ -30,7 +30,7 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40
 Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
-Lieutenant in Assault Armour   |  5  |  10"|  2+ |  3+ |  4  |  4  | Large                     | 78
+Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large             | 78
 Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large                     | 96
 
 - A Lieutenant may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
@@ -50,7 +50,7 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
 | Vanguard in Recon Armour       |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
 | Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
-| Vanguard in Assault Armour     |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
+| Vanguard in Assault Armour     |  4  |  8" |  3+ |  3+ |  4  |  2  | Flying, Large             | 32     |
 | Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
 - Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** lists.
@@ -78,7 +78,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
 | Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
 | Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
-| Specialist in Assault Armour   |  4  |  10"|  3+ |  3+ |  4  |  2  | Large                     | 32     |
+| Specialist in Assault Armour   |  4  |  8" |  3+ |  3+ |  4  |  2  | Flying, Large             | 32     |
 | Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
 
 - Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** lists.
@@ -96,7 +96,7 @@ Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armou
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Assault Bike                   |  4  |  8" |  3+ |  3+ |  5  | 3   | Vehicle                   | 
+Assault Bike                   |  4  |  9" |  3+ |  3+ |  5  | 3   | Vehicle                   | 
 
 #### Cerberus Tank
 
