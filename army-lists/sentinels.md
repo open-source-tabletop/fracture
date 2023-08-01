@@ -90,7 +90,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  6  | Heavy Armour (1), Vehicle | 
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armour (1), Vehicle | 180
 
 #### Assault Bikes
 
@@ -168,9 +168,9 @@ Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Twin Heavy Autocannon      | 24" |  4  |  4  |  2  | Rapid Fire (1), Rending (1), Heavy   | 22     |
 | Heavy Cannon               | 30" |  2  |  8  |  4  | Destructive (3), Heavy               | 60     |
+| Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent, Heavy            | 18     |
 | Laser Destroyer            | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 24     |
 | Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
-| Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent, Heavy            | 18     |
 | Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 40     |
 
 ### Mounted Secondary Weapons
