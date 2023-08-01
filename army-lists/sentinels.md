@@ -90,7 +90,10 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armour (1), Vehicle | 180
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armour (1), Walker  | 180
+
+primary and colossus 
+Secondary 
 
 #### Assault Bikes
 
