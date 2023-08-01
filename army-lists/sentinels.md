@@ -92,14 +92,17 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armour (1), Walker  | 180
 
-primary and colossus 
-Secondary 
+primary and colossus optional 
+Secondary
 
 #### Assault Bikes
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Assault Bike                   |  4  |  9" |  3+ |  3+ |  5  | 3   | Vehicle                   | 
+
+same as Frontline 
+plus bike weapon 
 
 #### Cerberus Tank
 
