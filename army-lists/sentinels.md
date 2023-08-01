@@ -2,10 +2,6 @@
 
 ## Army List
 
-
-
-
-
 ### Command Units
 
 #### Commander
@@ -44,10 +40,6 @@ Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large      
 - A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
-
-
-
-
 ### Standard Units
 
 #### Vanguard Squad
@@ -71,15 +63,10 @@ An Argo Transport unit consists of 1 Argo Transport model.
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
-| Argo Transport                 |  4  |  8" |  3+ |  3+ |  7  |  6  | Transport (6), Heavy Armour (1) | 190    | 
+| Argo Transport                 |  4  |  8" |  3+ |  3+ |  7  |  5  | Transport (6), Heavy Armour (1) | 190    | 
 
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
-- An Argo Transport may take the **Vehicle Energy Shields** upgrade.
-
-
-
-
 
 ### Specialist Units
 
@@ -103,13 +90,13 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  8  | Heavy Armour (2), Vehicle | 210
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  6  | Heavy Armour (1), Vehicle | 
 
 #### Assault Bikes
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Assault Bike                   |  4  | 10" |  3+ |  3+ |  5  | 3   | Vehicle                   | 55
+Assault Bike                   |  4  |  8" |  3+ |  3+ |  5  | 3   | Vehicle                   | 
 
 #### Cerberus Tank
 
@@ -117,13 +104,10 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, Heavy Armour (1) | 320
+Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (1) | 300
 
 - A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weapons** list.
 - A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
-- A Cerberus Tank may take the **Vehicle Energy Shields** upgrade.
-
-
 
 ## Weapons
 
@@ -194,8 +178,15 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, He
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer HMG               | 24" |  3  |  5  |  1  | Rapid Fire (1)                       | 16     |
+| Heavy Assault Cannon       | 12" |  3  |  4  |  1  | Rapid Fire (3)                       | 18     |
 | Heavy Autocannon           | 24" |  3  |  4  |  2  | Rapid Fire (1)                       | 16     |
 | Mounted Incinerator        | 10" |  4  |  3  |  0  | Blast (2), Torrent                   | 8      |
+
+### Other Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Colossus Melee Weapon      | 1"  |  2  |  6  |  2  | Assault, Destructive (3), Rapid Fire (3) | 60 |
 
 ## Upgrades
 
@@ -205,7 +196,6 @@ Cerberus Tank                  |  4  |  9" |  3+ |  2+ |  8  |  8  | Vehicle, He
 | Camo Cloaks | This model gains the Stealth (12) special rule. | 10 |
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
-| Vehicle Energy Shields | This model gains the Shields special rule. | 60 |
 
 ## Mission
 
