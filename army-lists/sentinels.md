@@ -63,7 +63,7 @@ An Argo Transport unit consists of 1 Argo Transport model.
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
-| Argo Transport                 |  4  |  8" |  3+ |  3+ |  7  |  5  | Transport (6), Heavy Armour (1) | 190    | 
+| Argo Transport                 |  4  |  8" |  3+ |  3+ |  8  |  5  | Transport (6), Heavy Armour (1) | 190    | 
 
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
@@ -90,7 +90,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 
 Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  7  |  5  | Heavy Armour (1), Walker  | 180
+Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  5  | Heavy Armour (1), Walker  | 180
 
 primary and colossus optional 
 Secondary
