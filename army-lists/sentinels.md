@@ -1,19 +1,17 @@
 # Sentinels
 
-## Army List
-
 ### Command Units
 
 #### Commander
 
 A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or Heavy Armour. You may only include 1 Commander in your army.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75
-Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100
-Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Flying, Large             | 120
-Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large                     | 160
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75     |
+| Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100    |
+| Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Flying, Large             | 120    |
+| Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large                     | 160    |
 
 - A Commander may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Commander may select 1 weapon from the **Grenades** weapon list.
@@ -67,6 +65,7 @@ An Argo Transport unit consists of 1 Argo Transport model.
 
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- An Argo Transport may take the **Smoke Launchers** upgrade.
 
 ### Specialist Units
 
@@ -84,7 +83,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 - Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** lists.
 - One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
-- You may upgrade all Specialists in Assault or Heavy Armour with the **Combat Shield** upgrade.
+- You may upgrade all Specialists with the **Combat Shield** upgrade.
 
 #### Colossus Walker
 
@@ -92,28 +91,36 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
 Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  5  | Heavy Armour (1), Walker  | 180
 
-primary and colossus optional 
-Secondary
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Colossus Walker                |  4  |  8" |  3+ |  2+ |  7  |  5  | Heavy Armour (1), Vehicle | 220    |
+
+- A Colossus Walker is equipped with a **Colossus Melee Weapon** and 1 choice from the **Mounted Primary Weapons**.
+- A Colossus Walker may also choose 1 weapon from the **Mounded Secondary Weapons** list.
+- A Colossus Walker may take the **Smoke Launchers** upgrade.
 
 #### Assault Bikes
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Assault Bike                   |  4  |  9" |  3+ |  3+ |  5  | 3   | Vehicle                   | 
+An Assault Bike unit consists of 3-5 Assault Bike models.
 
-same as Frontline 
-plus bike weapon 
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Assault Bike                   |  4  |  9" |  3+ |  3+ |  5  | 4   | Vehicle                   | 55     |
+
+- Each Assault Bike must be equipped with the same weapos, you may select 1 weapon each from the **Standard Sidearms** and **Mounted Secondary Weapons** lists.
+- One Assault Bike may replace its **Standard Sidearms** weapon with a choice from the **Specialist Sidearms** weapon list.
 
 #### Cerberus Tank
 
 A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberus Tank in your army.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (1) | 300
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (1) | 300    |
 
 - A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weapons** list.
 - A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- A Cerberus Tank may take the **Smoke Launchers** upgrade.
 
 ## Weapons
 
@@ -137,6 +144,7 @@ Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, He
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
 | Fusion Pistol              | 6"  |  1  |  6  |  3  | Assault, Destructive (2)             | 12     |
 | Incinerator Pistol         | 5"  |  5  |  3  |  0  | Blast (2), Torrent                   | 9      |
 | Plasma Pistol              | 8"  |  1  |  5  |  2  | Assault, Overcharge                  | 12     |
@@ -147,7 +155,7 @@ Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, He
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Enforcer Rifle             | 20" |  2  |  4  |  1  | Long Shot                            | 4      |
 | Enforcer Carbine           | 20" |  3  |  4  |  0  |                                      | 4      |
-| Enforcer SMG               | 16" |  4  |  4  |  0  | Rending (1)                          | 5      |
+| Enforcer SMG               | 16" |  4  |  3  |  0  | Rending (1)                          | 5      |
 | Sentinel Assault Blade     | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
 ### Specialist Weapons
@@ -202,17 +210,26 @@ Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, He
 | Camo Cloaks | This model gains the Stealth (12) special rule. | 10 |
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
+| Smoke Launchers | One use. This upgrade may be used after this model has completed its activation. Attacks against this model from more than 9 inches away count clear line of sight as obscured until this model moves, or until the end of the round, whichever comes first. | 10 |
 
-## Mission
+-----
+
+## Sentinel Mission
 
 ### The Tip of the Spear
 
+Sentinel Forces, with their advanced weapons and armour, are often used as the first strike in an attack. This mission represents the Sentinels attempting to break the battle lines of an enemy army.
+
 The Sentinel player is the attacker in this mission with the other player taking the role as Defender.
+
+#### Entry Points and Objectives
+
+After setting up your terrain, the attacker should choose one of the table edges, if the table is rectangular this should be one of the long table edges, and places one Entry Point in the centre of that table edge.
+
+The defender should place 4 Control objectives anywhere on the battlefield, so long as they are at least 9 inches from a table edge or any other objective marker. The Control objectives begin the game secured by the Defender so long as they have 1 model within 3 inches of it.
+
+The Defender treats all 4 objectives as their Entry Points. For this mission, before rolling for initiative the Defender must deploy all their units from reserve. They do not take any actions after being deployed.
 
 #### Objectives
 
-The defender should place 4 Control objectives anywhere on the battlefield, so long as they are at least 9 inches from a table edge or any other objective marker.
-
-#### Entry Points
-
-The attacking player places 3 entry points within 6 inches of the centre of the battlefield. The defending player does not place any Entry Points, instead they must place all of their units on the battlefield within 9 inches of the edge of the table.
+This mission does not use Victory Points, instead the attacking player wins the game if they secure all 4 control objectives at the end of any round, otherwise the defending player wins at the end of round 5.
