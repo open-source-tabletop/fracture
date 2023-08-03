@@ -10,7 +10,7 @@ An Elder unit consists of 1 Elder model. You may only include 1 Elder in your ar
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Elder                      |  6  |  7" |  2+ |  4+ |  4  |  4  | Skilled                   | 54     |
+| Elder                      |  6  |  7" |  2+ |  4+ |  4  |  5  | Skilled                   | 58     |
 
 #### Elite
 
@@ -18,7 +18,7 @@ An Elite unit consists of 1 Elite model. You may only include one Elite in your 
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Elite                      |  5  |  7" |  3+ |  5+ |  4  |  4  |                           | 40     |
+| Elite                      |  5  |  7" |  2+ |  5+ |  4  |  4  |                           | 32     |
 
 ### Standard Units
 
@@ -38,9 +38,9 @@ A Warriors unit consists of 5-10 Warrior models.
 
 An Ark unit consists of 1 Ark model.
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Ark                        |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 100
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Ark                        |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 125    |
 
 ### Specialist Units
 
