@@ -1,5 +1,7 @@
 # Sentinels
 
+## Army List
+
 ### Command Units
 
 #### Commander
