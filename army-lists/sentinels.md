@@ -1,5 +1,12 @@
 # Sentinels
 
+## Archetypes
+
+- Disciplined
+- Furious
+- Swift
+- Pious
+
 ## Army List
 
 ### Command Units
