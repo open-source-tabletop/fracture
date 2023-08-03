@@ -1,5 +1,12 @@
 # Voidborn
 
+## Archetypes 
+
+- Inscrutable
+- Noble
+- Shrouded
+- Sadistic
+
 ## Army List
 
 ### Command Units
