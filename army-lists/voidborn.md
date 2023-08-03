@@ -2,8 +2,6 @@
 
 ## Army List
 
-
-
 ### Command Units
 
 #### Elder
@@ -12,7 +10,7 @@ An Elder unit consists of 1 Elder model. You may only include 1 Elder in your ar
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Elder                      |  6  |  7" |  2+ |  5+ |  5  |  8  |                           | 80?    |
+| Elder                      |  6  |  7" |  2+ |  4+ |  4  |  4  | Skilled                   | 54     |
 
 #### Elite
 
