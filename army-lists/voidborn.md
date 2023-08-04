@@ -108,13 +108,16 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Shard Pistol               | 8"  |  2  |  3  |  0  | Assault                              | 1      |
-| Nanoblade                  | 1"  |  2  |  4  |  1  | Assault, Shred                       | 3      |
+| Nanoblade                  | 1"  |  2  |  3  |  1  | Assault, Shred                       | 3      |
 
 #### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Dark Matter Pistol         | 8"  |  2  |  3  |  2  | Assault, Shred                       | 8      |
+| Prismatic Pistol           | 10" |  2  |  4  |  1  | Assault                              | 3      |
+| Disruptor Pistol           | 6"  |  2  |  6  |  3  | Destructive (2)                      | 16     |
+| Neuroblade                 | 1"  |  2  |  3  |  1  | Assault, Rending (2)                 | 4      |
 
 #### Standard Weapons
 
@@ -135,9 +138,7 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | Plasma Blade               | 1"  |  2  |  4  |  3  | Assault, Rapid Fire (1)              | 10     |
 | Plasma Lance               | 2"  |  4  |  5  |  3  | Assault, Shred                       | 16     |
 | Barbed Talon               | 3"  |  2  |  5  |  2  | Assault, Destructive (2)             | 9      |
-| Particle Disruptor         | 14" |  2  |  6  |  3  | Destructive (2)                      | 26     |
-| Reaper Barrage Launcher    | 30" |  4  |  4  |  0  | Blast (3), Torrent, Heavy            | 20     |
-| Reaper Disruptor Launcher  | 24" |  2  |  6  |  2  | Blast (1), Destructive (2), Heavy    | 28     |
+| Particle Disruptor         | 14" |  2  |  6  |  3  | Destructive (3)                      | 26     |
 | Phaseblades                | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
 
 #### Heavy Weapons
@@ -146,7 +147,8 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Dark Matter Cannon         | 32" |  3  |  5  |  3  | Destructive (2), Heavy, Shred        | 22     |
 | Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
-| Rockets
+| Reaper Barrage Launcher    | 30" |  4  |  4  |  0  | Blast (3), Torrent, Heavy            | 20     |
+| Reaper Disruptor Launcher  | 24" |  2  |  6  |  2  | Blast (1), Destructive (2), Heavy    | 28     |
 
 #### Mounted Primary Weapons
 
@@ -165,3 +167,7 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | Prismatic Repeater         | 24" |  3  |  4  |  2  | Rapid Fire (2)                       | 24     |
 
 ## Equipment
+
+| Upgrade | Effect | Points |
+| :------ | :----- | :----: |
+| Mirage Field | This model gains the Resilient special rule. | 18 |
