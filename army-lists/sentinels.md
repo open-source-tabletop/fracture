@@ -2,7 +2,7 @@
 
 ## Archetypes
 
-- Disciplined
+- Disciplined: never fail command point check. 
 - Furious
 - Swift
 - Pious
@@ -95,10 +95,6 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 - You may upgrade all Specialists with the **Combat Shield** upgrade.
 
 #### Colossus Walker
-
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Colossus Walker                |  4  |  8" |  3+ |  3+ |  8  |  5  | Heavy Armour (1), Walker  | 180
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |

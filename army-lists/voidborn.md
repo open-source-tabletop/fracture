@@ -71,31 +71,29 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying         
 
 An Oathsworn unit consists of 3-6 Oathsworn models.
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Oathsworn                  |  4  |  7" |  3+ |  4+ |  4  |  1  |                           | 10
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Oathsworn                  |  4  |  7" |  3+ |  4+ |  4  |  1  |                           | 10     |
 
 - Each Oathsworn must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 
 #### Construct
 
-A Thralls unit consists of 5 Thralls models.
+A Construct unit consists of 3-5 Construct models.
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Thrall                     |  4  |  6" |  3+ |  4+ |  6  |  2  |                           | 15
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Construct                  |  4  |  6" |  3+ |  3+ |  6  |  2  |                           | 30     |
 
-#### Construct Strider
+#### Construct Lord
 
-A Thrall Construct Unit consists of 1 Thrall Construct model.
+A Construct Lord Unit consists of 1 Construct Lord model.
 
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Thrall Construct           |  4  |  8" |  2+ |  3+ |  6  |  12 |                           | 180
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Construct Lord             |  4  |  8" |  2+ |  2+ |  7  |  5  | Shields, Vehicle          | 195    |
 
-#### Raider
-
-Skimmer Tank
+#### Skimmer
 
 ### Weapons
 
@@ -122,7 +120,7 @@ Skimmer Tank
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Shard Rifle                | 16" |  4  |  3  |  0  | Rending (2)                          | 3      |
+| Shard Rifle                | 20" |  4  |  3  |  0  | Rending (2)                          | 3      |
 | Shard Reaper               | 28" |  3  |  3  |  1  |                                      | 4      |
 | Nanosword                  | 1"  |  3  |  4  |  1  | Assault, Shred                       | 4      |
 
@@ -131,9 +129,15 @@ Skimmer Tank
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Dark Matter Blaster        | 12" |  3  |  4  |  3  | Blast (1), Shred                     | 18     |
-| Sniper
-| Powerful blades
-| Melta
+| Shredder                   | 8"  |  4  |  4  |  1  | Assault, Blast (1), Rending (1)      | 13     |
+| Prismatic Rifle            | 18" |  4  |  4  |  1  | Long Shot                            | 9      |
+| Prismatic Long Rifle       | 32" |  1  |  4  |  1  | Accurate, Destructive (3)            | 10     |
+| Plasma Blade               | 1"  |  2  |  4  |  3  | Assault, Rapid Fire (1)              | 10     |
+| Plasma Lance               | 2"  |  4  |  5  |  3  | Assault, Shred                       | 16     |
+| Barbed Talon               | 3"  |  2  |  5  |  2  | Assault, Destructive (2)             | 9      |
+| Particle Disruptor         | 14" |  2  |  6  |  3  | Destructive (2)                      | 26     |
+| Reaper Barrage Launcher    | 30" |  4  |  4  |  0  | Blast (3), Torrent, Heavy            | 20     |
+| Reaper Disruptor Launcher  | 24" |  2  |  6  |  2  | Blast (1), Destructive (2), Heavy    | 28     |
 | Phaseblades                | 1"  |  2  |  4  |  2  | Assault, Shred                       | 8      |
 
 #### Heavy Weapons
@@ -148,7 +152,16 @@ Skimmer Tank
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Prismatic Annihilator      | 32" |  3  |  5  |  2  | Blast (2), Destructive (3)           | 42     |
+| Twin Prismatic Annihilator | 32" |  3  |  5  |  2  | Blast (2), Destructive (3), Rapid Fire (1)| 42|
 | Heavy Dark Matter Cannnon  | 32" |  4  |  6  |  4  | Destructive (2), Heavy, Shred        | 36     |
 | Heavy Shard Repeater       | 28" |  4  |  5  |  1  | Rapid Fire (2), Heavy, Shred         | 38     |
+
+#### Mounted Secondary Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
+| Heavy Shard Repeater       | 28" |  3  |  5  |  1  | Rapid Fire (1), Shred                | 20     |
+| Prismatic Repeater         | 24" |  3  |  4  |  2  | Rapid Fire (2)                       | 24     |
 
 ## Equipment
