@@ -38,7 +38,7 @@ Large counts as 2
 
 ## Building an Army
 
-250 Encounter - ignore unit sizes, all are 1 - no model over 100 points after weapons, no vehicles, no command, max 2 grenades
+150 Encounter - ignore unit sizes, all are 1 - no model over 60 points after weapons, no vehicles, no command, max 2 grenades
 500 Skirmish
 1000 Battle
 1500 Large Battle
