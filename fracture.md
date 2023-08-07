@@ -50,3 +50,4 @@ max 50% specialist
 ### Army Lists
 
 - [Sentinels](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/sentinels.md)
+- [Voidborn](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/voidborn.md)
