@@ -30,7 +30,7 @@ A Warriors unit consists of 5-10 Warrior models.
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 8      |
+| Warrior                    |  4  |  7" |  4+ |  5+ |  4  |  1  |                           | 7      |
 
 - Each Warrior must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** weapons lists.
 - One Warrior may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
@@ -39,33 +39,17 @@ A Warriors unit consists of 5-10 Warrior models.
 
 #### Void Ark
 
-An Ark unit consists of 1 Ark model.
+A Void Ark unit consists of 1 Ark model.
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Ark                        |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 125    |
+| Void Ark                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 125    |
 
 - A Void Ark may choose 1 weapon from the **Mounted Primary Weapons** list or take the **Transport Bay** upgrade.
 - A Void Ark may be equipped with up to 2 weapons from the **Mounted Secondary Weapons** list.
 - A Void Ark may take the **Mirage Emitters** upgrade.
 
 ### Specialist Units
-
-#### Jet Bikes???
-
-A Reavers unit consists of 3 Reaver models.
-
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Reaver                     |  4  | 12" |  3+ |  5+ |  5  | 5   | Flying                    | 40
-
-#### Small Transport??? Weapons Platform???
-
-A Raider unit consists of 1 Raider model.
-
-Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying                    | 60
 
 #### Oathsworn
 
@@ -83,7 +67,10 @@ A Construct unit consists of 3-5 Construct models.
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Construct                  |  4  |  6" |  3+ |  3+ |  6  |  2  |                           | 30     |
+| Construct                  |  4  |  6" |  3+ |  4+ |  6  |  2  |                           | 30     |
+
+- Each Construct must be equipped with the same weapons: you may choose 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
+- You may upgrade all Constructs with the **Soul Forge** upgrade.
 
 #### Construct Lord
 
@@ -91,7 +78,26 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Construct Lord             |  4  |  8" |  2+ |  2+ |  7  |  5  | Shields, Vehicle          | 195    |
+| Construct Lord             |  4  |  8" |  2+ |  4+ |  7  |  5  | Shields, Vehicle          | 195    |
+
+- A Construct Lord may be equipped with 2 weapons: 1 weapon from the **Primary Mounted Weapons** or **Secondary Mounted Weapons** lists and 1 weapon from the **Secondary Mounted Weapons**, **Heavy Weapons**, or **Specialist Weapons** lists.
+- You may upgrade a Construct Lord with the **Sould Forge** upgrade.
+
+#### Reavers
+
+A Reavers unit consists of 3 Reaver models.
+
+Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Reaver                     |  4  | 12" |  3+ |  5+ |  5  | 5   | Flying                    | 40
+
+#### Raider
+
+A Raider unit consists of 1 Raider model.
+
+Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
+:------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
+Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying                    | 60
 
 #### Skimmer
 
@@ -173,7 +179,7 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | Mirage Cloak | This model gains the Stealth (12) special rule. | 6 |
 | Mirage Emitters | This vehicle gains the Stealth (12) special rule. | 18 |
 | Organic Circuitry | One Use. Roll a d6, on a roll of 1 nothing happens, on a roll of 2-5 the vehicle regains 1 lost Hit Point. On a roll of a 6 the vehicle regains 1 lost Hit Point and 1 lost Command Point. | 8 |
-| Soulforge | This model gains the Resilient special rule. | 8 |
+| Soulforge | This model gains the Resilient special rule. | 7 |
 | Ghostwalk Harness | This model gains +3 inches to its Movement attribute when taking an Advance action. | 3 |
 | Windwalk Harness | This model gains the Flying special rule. | 3 |
 | Path of the Warrior | This model may make 2 attack actions during its Activation if all targets chosen are within 3 inches. | 3 |

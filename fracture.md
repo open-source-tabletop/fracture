@@ -43,6 +43,10 @@ Large counts as 2
 1000 Battle
 1500 Large Battle
 
+25% standard
+max 25% command
+max 50% specialist
+
 ### Army Lists
 
 - [Sentinels](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/sentinels.md)
