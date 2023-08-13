@@ -4,6 +4,8 @@
 
 ### Command Units
 
+
+
 #### Commander
 
 A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or Heavy Armour. You may only include 1 Commander in your army.
@@ -13,7 +15,7 @@ A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or 
 | Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                           | 75     |
 | Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                           | 100    |
 | Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Flying, Large             | 120    |
-| Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large                     | 160    |
+| Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large, Steady             | 160    |
 
 - A Commander may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Commander may select 1 weapon from the **Grenades** weapon list.
@@ -21,6 +23,8 @@ A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or 
 - A Commander in Recon Armour may take the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - A Commander in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Commander in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
+
+
 
 #### Lieutenant
 
@@ -31,7 +35,7 @@ Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rul
 Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40
 Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
 Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large             | 78
-Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large                     | 96
+Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large, Steady             | 96
 
 - A Lieutenant may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Lieutenant may select 1 weapon from the **Grenades** weapon list.
@@ -40,7 +44,11 @@ Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large      
 - A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
+
+
 ### Standard Units
+
+
 
 #### Vanguard Squad
 
@@ -51,11 +59,13 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 | Vanguard in Recon Armour       |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
 | Vanguard in Frontline Armour   |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
 | Vanguard in Assault Armour     |  4  |  8" |  3+ |  3+ |  4  |  2  | Flying, Large             | 32     |
-| Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
+| Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large, Steady             | 44     |
 
 - Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** lists.
 - One Vanguard may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
+
+
 
 #### Argo Transport
 
@@ -69,7 +79,11 @@ An Argo Transport unit consists of 1 Argo Transport model.
 - An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
 - An Argo Transport may take the **Smoke Launchers** upgrade.
 
+
+
 ### Specialist Units
+
+
 
 #### Specialist Squad
 
@@ -80,12 +94,14 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 | Specialist in Recon Armour     |  4  |  6" |  3+ |  4+ |  4  |  2  |                           | 18     |
 | Specialist in Frontline Armour |  4  |  6" |  3+ |  3+ |  4  |  2  |                           | 24     |
 | Specialist in Assault Armour   |  4  |  8" |  3+ |  3+ |  4  |  2  | Flying, Large             | 32     |
-| Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large                     | 44     |
+| Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large, Steady             | 44     |
 
 - Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** lists.
 - One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - You may upgrade all Specialists with the **Combat Shield** upgrade.
+
+
 
 #### Colossus Walker
 
@@ -96,6 +112,8 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 - A Colossus Walker is equipped with a **Colossus Melee Weapon** and 1 choice from the **Mounted Primary Weapons**.
 - A Colossus Walker may also choose 1 weapon from the **Mounded Secondary Weapons** list.
 - A Colossus Walker may take the **Smoke Launchers** upgrade.
+
+
 
 #### Assault Bikes
 
@@ -108,6 +126,8 @@ An Assault Bike unit consists of 3-5 Assault Bike models.
 - Each Assault Bike must be equipped with the same weapos, you may select 1 weapon each from the **Standard Sidearms** and **Mounted Secondary Weapons** lists.
 - One Assault Bike may replace its **Standard Sidearms** weapon with a choice from the **Specialist Sidearms** weapon list.
 
+
+
 #### Cerberus Tank
 
 A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberus Tank in your army.
@@ -119,6 +139,8 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 - A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weapons** list.
 - A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
 - A Cerberus Tank may take the **Smoke Launchers** upgrade.
+
+
 
 ## Weapons
 
@@ -210,7 +232,7 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Energy Shields | This model gains the Shields special rule. | 18 |
 | Smoke Launchers | One use. This upgrade may be used after this model has completed its activation. Attacks against this model from more than 9 inches away count clear line of sight as obscured until this model moves, or until the end of the round, whichever comes first. | 10 |
 
------
+
 
 ## Sentinel Mission
 

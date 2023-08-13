@@ -4,6 +4,8 @@
 
 ### Command Units
 
+
+
 #### Elder
 
 An Elder unit consists of 1 Elder model. You may only include 1 Elder in your army.
@@ -11,6 +13,11 @@ An Elder unit consists of 1 Elder model. You may only include 1 Elder in your ar
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
 | Elder                      |  6  |  7" |  2+ |  4+ |  4  |  5  | Skilled                   | 54     |
+
+- An Elder may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
+- An Elder may take one of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Harness**, **Windwalk Harness**, **Path of the Warrior**, or **Path of the Hunter**.
+
+
 
 #### Seeker
 
@@ -20,9 +27,14 @@ A Seeker unit consists of 1 Seeker model. You may only include one Seeker in you
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
 | Seeker                     |  5  |  7" |  2+ |  4+ |  4  |  4  |                           | 32     |
 
-- Each Seeker must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
+- A Seeker may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
+- A Seeker may take one of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Harness**, **Windwalk Harness**, **Path of the Warrior**, or **Path of the Hunter**.
+
+
 
 ### Standard Units
+
+
 
 #### Warriors
 
@@ -37,19 +49,25 @@ A Warriors unit consists of 5-10 Warrior models.
 - One Warrior for every 5 in the unit may swap 1 weapon with a weapon from the **Specialist Weapons** or **Heavy Weapons** list.
 - You may upgrade all Warriors with the **Mirage Cloaks** upgrade.
 
+
+
 #### Void Ark
 
 A Void Ark unit consists of 1 Ark model.
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Void Ark                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying                    | 125    |
+| Void Ark                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying, Vehicle           | 125    |
 
 - A Void Ark may choose 1 weapon from the **Mounted Primary Weapons** list or take the **Transport Bay** upgrade.
 - A Void Ark may be equipped with up to 2 weapons from the **Mounted Secondary Weapons** list.
-- A Void Ark may take the **Mirage Emitters** upgrade.
+- A Void Ark may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
+
+
 
 ### Specialist Units
+
+
 
 #### Oathsworn
 
@@ -60,6 +78,9 @@ An Oathsworn unit consists of 3-6 Oathsworn models.
 | Oathsworn                  |  5  |  7" |  3+ |  4+ |  4  |  1  |                           | 14     |
 
 - Each Oathsworn must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
+- You may upgrade all Oathsword with one of the following upgrades: **Mirage Cloak**, **Ghostwalk Harness**, **Windwalk Harness**, **Path of the Warrior**, or **Path of the Hunter**.
+
+
 
 #### Construct
 
@@ -70,7 +91,9 @@ A Construct unit consists of 3-5 Construct models.
 | Construct                  |  4  |  6" |  3+ |  4+ |  6  |  2  |                           | 30     |
 
 - Each Construct must be equipped with the same weapons: you may choose 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
-- You may upgrade all Constructs with the **Soul Forge** upgrade.
+- You may upgrade all Constructs with the **Soul Forge**, **Path of the Warrior**, or **Path of the Hunter** upgrade.
+
+
 
 #### Construct Lord
 
@@ -81,7 +104,9 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 | Construct Lord             |  4  |  8" |  2+ |  4+ |  7  |  5  | Shields, Vehicle          | 195    |
 
 - A Construct Lord may be equipped with 2 weapons: 1 weapon from the **Primary Mounted Weapons** or **Secondary Mounted Weapons** lists and 1 weapon from the **Secondary Mounted Weapons**, **Heavy Weapons**, or **Specialist Weapons** lists.
-- You may upgrade a Construct Lord with the **Sould Forge** upgrade.
+- You may upgrade a Construct Lord with the **Sould Forge** or **Organic Circuitry** upgrade.
+
+
 
 #### Reavers
 
@@ -89,7 +114,12 @@ A Reavers unit consists of 3 Reaver models.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Reaver                     |  4  | 12" |  3+ |  5+ |  5  | 5   | Flying                    | 40
+Reaver                     |  4  | 12" |  3+ |  5+ |  5  | 5   | Flying, Vehicle           | 40
+
+- Each Reaver must be equipped with the same weapons, you may choose 1 weapon from the **Standard Sidearms** list and one weapon from the **Standard Weapons** list.
+- One model may exchance its **Standard Weapon** with a weapon from the **Heavy Weapons** or **Secondary Mounted Weapons** lists.
+
+
 
 #### Raider
 
@@ -97,26 +127,23 @@ A Raider unit consists of 1 Raider model.
 
 Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
 :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying                    | 60
+Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying, Vehicle           | 60
 
-#### Skimmer
+- A Raider model may be equipped with up to 3 weapons: up to 1 weapon from the **Primary Mounted Weapons** list and up to 3 weapons from the **Specialist Weapons** or **Secondary Mounted Weapons** lists.
+- A Raider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
-### Weapons
 
-#### Standard Weapons
 
-#### Heavy Weapons
+## Weapons
 
-#### Mounted Weapons
-
-#### Standard Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Nanoblade                  | 1"  |  2  |  3  |  1  | Assault, Shred                       | 1      |
 | Shard Pistol               | 8"  |  2  |  3  |  0  | Assault                              | 1      |
 
-#### Specialist Sidearms
+### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -125,7 +152,7 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying         
 | Neuroblade                 | 1"  |  2  |  3  |  1  | Assault, Rending (2)                 | 4      |
 | Prismatic Pistol           | 10" |  2  |  4  |  1  | Assault                              | 3      |
 
-#### Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -156,7 +183,7 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying         
 | Reaper Disruptor Launcher  | 24" |  2  |  6  |  2  | Blast (1), Destructive (2), Heavy    | 28     |
 | Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred            | 16     |
 
-#### Mounted Primary Weapons
+#### Primary Mounted Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -165,7 +192,7 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying         
 | Prismatic Annihilator      | 32" |  3  |  5  |  2  | Blast (2), Destructive (3)           | 42     |
 | Twin Prismatic Annihilator | 32" |  3  |  5  |  2  | Blast (2), Destructive (3), Rapid Fire (1)| 42|
 
-#### Mounted Secondary Weapons
+#### Secondary Mounted Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -182,6 +209,6 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying         
 | Soulforge | This model gains the Resilient special rule. | 7 |
 | Ghostwalk Harness | This model gains +3 inches to its Movement attribute when taking an Advance action. | 3 |
 | Windwalk Harness | This model gains the Flying special rule. | 3 |
-| Path of the Warrior | This model may make 2 attack actions during its Activation if all targets chosen are within 3 inches. | 3 |
+| Path of the Warrior | This model may make 2 attack actions during its Activation if the second target is within 3 inches of the first. | 3 |
 | Path of the Hunter | This model counts obstructed line of sight as clear. | 3 |
 | Transport Bay | This vehicle gains the Transport (10) special rule. | 25 |

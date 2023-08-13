@@ -6,30 +6,7 @@ Fracture is best played on a battlefield around 3ft by 4ft and is designed for 2
 
 A game of Fracture lasts for 5 rounds.
 
-### Vehicles
-
-Models with the "Vehicle" special rule have the following changes to their rules:
-
-- Vehicles ignore the climbable keyword for terrain, treating them as impassable instead.
-- Vehicles count as having the "Non-scoring" special rule.
-- Vehicles making an Attack action may use two weapons and target different models with the second weapon, however the second weapon has a -1 modifier to it's Attack Rolls.
-
-### Transports
-
-Transports are vehicles
-Non vehicle models
-Large counts as 2
-
 ### Special Rules
-
-#### Model Special Rules
-
-| Special Rule | Effect |
-| :----------- | :----- |
-| Rugged | This model ignores the Heavy special rule. |
-| Large | This model counts as 2 models for calculating how many models a Transport can carry. |
-
-#### Weapon Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
