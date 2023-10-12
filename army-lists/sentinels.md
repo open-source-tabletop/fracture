@@ -203,7 +203,7 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Twin Heavy Autocannon      | 24" |  4  |  4  |  2  | Rapid Fire (1), Rending (1), Heavy   | 22     |
 | Heavy Cannon               | 30" |  2  |  8  |  4  | Destructive (3), Heavy               | 60     |
 | Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent, Heavy            | 18     |
-| Gatling Cannon             | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 24     |
+| Gatling Cannon             | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 28     |
 | Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
 | Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 48     |
 
