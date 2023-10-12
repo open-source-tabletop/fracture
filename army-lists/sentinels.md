@@ -240,7 +240,7 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 
 Sentinel Forces, with their advanced weapons and armour, are often used as the first strike in an attack. This mission represents the Sentinels attempting to break the battle lines of an enemy army.
 
-The Sentinel player is the attacker in this mission with the other player taking the role as Defender.
+The Sentinel player is the attacker in this mission with the other player taking the role as defender.
 
 #### Entry Points and Objectives
 
@@ -248,7 +248,7 @@ After setting up your terrain, the attacker should choose one of the table edges
 
 The defender should place 4 Control objectives anywhere on the battlefield, so long as they are at least 9 inches from a table edge or any other objective marker. The Control objectives begin the game secured by the Defender so long as they have 1 model within 3 inches of it.
 
-The Defender treats all 4 objectives as their Entry Points. For this mission, before rolling for initiative the Defender must deploy all their units from reserve. They do not take any actions after being deployed.
+The Defender treats all 4 objectives as their Entry Points. For this mission, before rolling for initiative the Defender must deploy all their units from reserve. They do not take any actions after being deployed so do not lose any command points.
 
 #### Objectives
 
