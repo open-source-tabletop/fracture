@@ -30,12 +30,12 @@ A Commander unit consists of 1 Commander model in Recon, Frontline, Assault, or 
 
 A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, or Heavy Armour. You may only include one Lieutenant in your army.
 
-Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points
-:----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :-----
-Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40
-Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60
-Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large             | 78
-Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large, Steady             | 96
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                           | 40     |
+| Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                           | 60     |
+| Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large             | 78     |
+| Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large, Steady             | 96     |
 
 - A Lieutenant may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists.
 - A Lieutenant may select 1 weapon from the **Grenades** weapon list.
@@ -71,8 +71,8 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 
 An Argo Transport unit consists of 1 Argo Transport model.
 
-| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
-| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
 | Argo Transport                 |  4  |  8" |  3+ |  3+ |  8  |  5  | Transport (10), Heavy Armour (1) | 190    | 
 
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
@@ -158,13 +158,13 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Fregmentation Grenade      | 8"  |  3  |  4  |  1  | Blast (2), Inaccurate, Grenade       | 2      |
 | AP Grenade                 | 8"  |  2  |  5  |  2  | Blast (1), Inaccurate, Grenade       | 2      |
-| Fusion Grenade             | 8"  |  1  |  6  |  3  | Inaccurate, Grenade                  | 2      |
+| Fusion Grenade             | 8"  |  1  |  6  |  3  | Inaccurate, Grenade                  | 3      |
 
 ### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
+| Burnblade                  | 1"  |  3  |  4  |  3  | Assault, Rapid Fire (1), Rending (1) | 15     |
 | Fusion Pistol              | 6"  |  1  |  6  |  3  | Assault, Destructive (2)             | 12     |
 | Incinerator Pistol         | 5"  |  5  |  3  |  0  | Blast (2), Torrent                   | 9      |
 | Plasma Pistol              | 8"  |  1  |  5  |  2  | Assault, Overcharge                  | 12     |
@@ -182,8 +182,8 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Burnblade                  | 1"  |  3  |  4  |  3  | Assault                              | 8      |
-| Concussion Hammer          | 1"  |  2  |  6  |  2  | Assault, Destructive (2)             | 10     |
+| Burnblade                  | 1"  |  3  |  4  |  3  | Assault, Rapid Fire (1), Rending (1) | 15     |
+| Concussion Hammer          | 1"  |  3  |  6  |  2  | Assault, Destructive (2)             | 10     |
 | Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
 | Enforcer LMG               | 24" |  2  |  5  |  1  | Rapid Fire (1), Volley               | 8      |
 | Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
@@ -192,9 +192,9 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Heavy Incinerator          | 12" |  6  |  4  |  0  | Blast (2), Torrent                   | 15     |
 | Heavy Plasma Rifle         | 24" |  2  |  6  |  3  | Overcharge                           | 16     |
 | Incinerator                | 10" |  5  |  3  |  0  | Blast (2), Torrent                   | 10     |
-| Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 13     |
+| Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 18     |
 | Sentinel Missile Launcher  | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     | 
-| Twin Burnblades            | 1"  |  4  |  4  |  3  | Assault, Rending (1)                 | 10     |
+| Burnblade                  | 1"  |  4  |  4  |  3  | Assault, Rapid Fire (1), Rending (1) | 18     |
 
 ### Mounted Primary Weapons
 
@@ -203,9 +203,9 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Twin Heavy Autocannon      | 24" |  4  |  4  |  2  | Rapid Fire (1), Rending (1), Heavy   | 22     |
 | Heavy Cannon               | 30" |  2  |  8  |  4  | Destructive (3), Heavy               | 60     |
 | Heavy Immolator            | 12" |  6  |  4  |  0  | Blast (3), Torrent, Heavy            | 18     |
-| Laser Destroyer            | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 24     |
+| Gatling Cannon             | 24" |  6  |  4  |  1  | Rapid Fire (1), Shred                | 24     |
 | Fusion Destroyer           | 12" |  3  |  7  |  4  | Destructive (2), Heavy               | 32     |
-| Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 40     |
+| Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 48     |
 
 ### Mounted Secondary Weapons
 
