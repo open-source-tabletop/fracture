@@ -4,7 +4,7 @@
 
 Fracture is best played on a battlefield around 3ft by 4ft and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and larger games may include vehicles.
 
-A game of Fracture lasts for 5 rounds.
+A game of Fracture lasts for 4 rounds.
 
 ### Special Rules
 
