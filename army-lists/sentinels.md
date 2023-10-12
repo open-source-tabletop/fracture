@@ -252,4 +252,4 @@ The Defender treats all 4 objectives as their Entry Points. For this mission, be
 
 #### Objectives
 
-This mission does not use Victory Points, instead the attacking player wins the game if they secure all 4 control objectives at the end of any round, otherwise the defending player wins at the end of round 5.
+This mission does not use Victory Points, instead the attacking player wins the game if they secure at least 3 control objectives at the end of any round, otherwise the defending player wins at the end of round 5.
