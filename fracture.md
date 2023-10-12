@@ -15,14 +15,9 @@ A game of Fracture lasts for 5 rounds.
 
 ## Building an Army
 
-150 Encounter - ignore unit sizes, all are 1 - no model over 60 points after weapons, no vehicles, no command, max 2 grenades
-500 Skirmish
-1000 Battle
-1500 Large Battle
+Building your army for Fracture is simple, players agree a maximum number of points then choose their units from their army list, ensuring the total points cost for their models, weapons, and equipment don't exceed that maximum. In addition to the maximum points each player can spend there are also 3 categories of unit; Command, Standard, and Specialist. An army must be at least 25% (by points) Standard models, no more than 25% Command models, and no more than 50% Specialist models. 
 
-25% standard
-max 25% command
-max 50% specialist
+Recommended points for games of Fracture are 500-1000 points for smaller games which can be played on a 3ft by 4ft battlefield and up to 2000 for larger games with a larger battlefield.
 
 ### Army Lists
 
