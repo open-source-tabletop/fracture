@@ -76,7 +76,7 @@ An Argo Transport unit consists of 1 Argo Transport model.
 | Argo Transport                 |  4  |  8" |  3+ |  3+ |  8  |  5  | Transport (10), Heavy Armour (1) | 190    | 
 
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
-- An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may take the **Smoke Launchers** upgrade.
 
 
@@ -97,7 +97,7 @@ A Specialist unit consists of 3-5 Specialist models all in either Recon, Frontli
 | Specialist in Heavy Armour     |  4  |  5" |  3+ |  2+ |  5  |  2  | Large, Steady             | 44     |
 
 - Each Specialist must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Specialist Weapons** lists.
-- One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list.
+- One Specialist may instead swap 1 weapon with a weapon from the **Specialist Sidearms** list or a different **Specialist Weapon**.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
 - You may upgrade all Specialists with the **Combat Shield** upgrade.
 
@@ -137,7 +137,7 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (1) | 300    |
 
 - A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weapons** list.
-- A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list but it gains the Arc (Side) Special rule.
+- A Cerberus Tank may be equipped with an additional weapon from the **Mounted Secondary Weapons** list.
 - A Cerberus Tank may take the **Smoke Launchers** upgrade.
 
 
@@ -185,7 +185,7 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Burnblade                  | 1"  |  3  |  4  |  3  | Assault, Rapid Fire (1), Rending (1) | 15     |
 | Concussion Hammer          | 1"  |  3  |  6  |  2  | Assault, Destructive (2)             | 10     |
 | Enforcer AT Rifle          | 24" |  1  |  6  |  4  | Destructive (4), Heavy               | 16     |
-| Enforcer LMG               | 24" |  2  |  5  |  1  | Rapid Fire (1), Volley               | 8      |
+| Enforcer LMG               | 24" |  2  |  5  |  1  | Rapid Fire (2), Volley               | 10     |
 | Enforcer Sniper Rifle      | 30" |  1  |  4  |  2  | Accurate, Destructive (3), Heavy     | 10     |
 | Fusion Rifle               | 10" |  2  |  6  |  3  | Destructive (2)                      | 18     |
 | Fusion Lance               | 12" |  3  |  7  |  3  | Destructive (2), Heavy               | 26     |
@@ -215,12 +215,13 @@ A Cerberus Tank unit consists of 1 Cerberus Tank. You may only include 1 Cerberu
 | Heavy Assault Cannon       | 12" |  3  |  4  |  1  | Rapid Fire (3)                       | 18     |
 | Heavy Autocannon           | 24" |  3  |  4  |  2  | Rapid Fire (1)                       | 16     |
 | Mounted Incinerator        | 10" |  4  |  3  |  0  | Blast (2), Torrent                   | 8      |
+| Sentinel Missile Launcher  | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     | 
 
 ### Other Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Colossus Melee Weapon      | 1"  |  2  |  6  |  2  | Assault, Destructive (3), Rapid Fire (3) | 60 |
+| Colossus Melee Weapon      | 1"  |  2  |  6  |  2  | Assault, Destructive (3), Rapid Fire (3) | 40 |
 
 ## Upgrades
 
