@@ -8,11 +8,11 @@
 
 Warriors
 
-
-
 ### Specialist Units
 
-Protean Adepts
+Protean Adapts
+
+Destroyer Platform
 
 ## Weapons
 
