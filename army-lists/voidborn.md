@@ -4,8 +4,6 @@
 
 ### Command Units
 
-
-
 #### Elder
 
 An Elder unit consists of 1 Elder model. You may only include 1 Elder in your army.
@@ -16,8 +14,6 @@ An Elder unit consists of 1 Elder model. You may only include 1 Elder in your ar
 
 - An Elder may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 - An Elder may take one of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Harness**, **Windwalk Harness**, **Path of the Warrior**, or **Path of the Hunter**.
-
-
 
 #### Seeker
 
@@ -34,8 +30,6 @@ A Seeker unit consists of 1 Seeker model. You may only include one Seeker in you
 
 ### Standard Units
 
-
-
 #### Warriors
 
 A Warriors unit consists of 5-10 Warrior models.
@@ -49,25 +43,20 @@ A Warriors unit consists of 5-10 Warrior models.
 - One Warrior for every 5 in the unit may swap 1 weapon with a weapon from the **Specialist Weapons** or **Heavy Weapons** list.
 - You may upgrade all Warriors with the **Mirage Cloaks** upgrade.
 
+#### Voidship Transport
 
+A Voidship unit consists of 1 Voidship model.
 
-#### Void Ark
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
+| Voidship                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying, Transport (10), Vehicle | 150    |
 
-A Void Ark unit consists of 1 Ark model.
-
-| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
-| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Void Ark                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying, Vehicle           | 125    |
-
-- A Void Ark may choose 1 weapon from the **Mounted Primary Weapons** list or take the **Transport Bay** upgrade.
-- A Void Ark may be equipped with up to 2 weapons from the **Mounted Secondary Weapons** list.
-- A Void Ark may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
+- A Voidship transport may be equipped with up to 2 weapons from the **Mounted Secondary Weapons** list.
+- A Voidship transport may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
 
 
 ### Specialist Units
-
-
 
 #### Oathsworn
 
@@ -80,8 +69,6 @@ An Oathsworn unit consists of 3-6 Oathsworn models.
 - Each Oathsworn must be equipped with the same weapons: you may select 1 weapon from either the **Standard Sidearms** or **Specialist Sidearms** weapon lists, 1 weapon from the **Grenades** weapon list, and 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 - You may upgrade all Oathsword with one of the following upgrades: **Mirage Cloak**, **Ghostwalk Harness**, **Windwalk Harness**, **Path of the Warrior**, or **Path of the Hunter**.
 
-
-
 #### Construct
 
 A Construct unit consists of 3-5 Construct models.
@@ -92,8 +79,6 @@ A Construct unit consists of 3-5 Construct models.
 
 - Each Construct must be equipped with the same weapons: you may choose 1 weapon from either the **Standard Weapons** or **Specialist Weapons** lists.
 - You may upgrade all Constructs with the **Soul Forge**, **Path of the Warrior**, or **Path of the Hunter** upgrade.
-
-
 
 #### Construct Lord
 
@@ -106,8 +91,6 @@ A Construct Lord Unit consists of 1 Construct Lord model.
 - A Construct Lord may be equipped with 2 weapons: 1 weapon from the **Primary Mounted Weapons** or **Secondary Mounted Weapons** lists and 1 weapon from the **Secondary Mounted Weapons**, **Heavy Weapons**, or **Specialist Weapons** lists.
 - You may upgrade a Construct Lord with the **Sould Forge** or **Organic Circuitry** upgrade.
 
-
-
 #### Reavers
 
 A Reavers unit consists of 3 Reaver models.
@@ -118,8 +101,6 @@ Reaver                     |  4  | 12" |  3+ |  5+ |  5  | 5   | Flying, Vehicle
 
 - Each Reaver must be equipped with the same weapons, you may choose 1 weapon from the **Standard Sidearms** list and one weapon from the **Standard Weapons** list.
 - One model may exchance its **Standard Weapon** with a weapon from the **Heavy Weapons** or **Secondary Mounted Weapons** lists.
-
-
 
 #### Raider
 
@@ -132,7 +113,17 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying, Vehicle
 - A Raider model may be equipped with up to 3 weapons: up to 1 weapon from the **Primary Mounted Weapons** list and up to 3 weapons from the **Specialist Weapons** or **Secondary Mounted Weapons** lists.
 - A Raider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
+#### Voidship
 
+A Voidship unit consists of 1 Voidship model.
+
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
+| Voidship                   |  4  | 10" |  4+ |  3+ |  6  |  8  | Flying, Vehicle                 | 125    |
+
+- A Voidship may be equipped with 1 weapon from the **Mounted Primary Weapons** list.
+- A Voidship may be equipped with up to 2 weapons from the **Mounted Secondary Weapons** list.
+- A Voidship may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
 ## Weapons
 
@@ -211,4 +202,3 @@ Raider                     |  4  | 12" |  4+ |  4+ |  5  | 6   | Flying, Vehicle
 | Windwalk Harness | This model gains the Flying special rule. | 3 |
 | Path of the Warrior | This model may make 2 attack actions during its Activation if the second target is within 3 inches of the first. | 3 |
 | Path of the Hunter | This model counts obstructed line of sight as clear. | 3 |
-| Transport Bay | This vehicle gains the Transport (10) special rule. | 25 |
