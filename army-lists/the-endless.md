@@ -8,10 +8,12 @@
 
 #### Warrior Host
 
+A Warrior Host unit consists of 5-10 Warrior models or 5-10 Warrior Protean models.
+
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Endless Warrior                |  4  |  5" |  4+ |  4+ |  3  |  1  |                           | 7      |
-| Endless Warrior Protean        |  4  |  6" |  3+ |  4+ |  4  |  1  | Large                     | 10     |
+| Warrior                        |  4  |  5" |  4+ |  4+ |  3  |  1  |                           | 7      |
+| Warrior Protean                |  4  |  6" |  3+ |  4+ |  4  |  1  | Large                     | 10     |
 
 ### Specialist Units
 
