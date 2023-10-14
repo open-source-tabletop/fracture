@@ -15,6 +15,12 @@ A Warrior Host unit consists of 5-10 Warrior models or 5-10 Warrior Protean mode
 | Warrior                        |  4  |  5" |  4+ |  4+ |  3  |  1  |                           | 7      |
 | Warrior Protean                |  4  |  6" |  3+ |  4+ |  4  |  1  | Large                     | 10     |
 
+#### 
+
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
+| 
+
 ### Specialist Units
 
 #### Protean Adapts
@@ -46,12 +52,12 @@ A Warrior Host unit consists of 5-10 Warrior models or 5-10 Warrior Protean mode
 | Particle Rifle             | 24" |  3  |  4  |  0  | Rending (1)                          | 3      |
 | Particle Reaper            | 18" |  3  |  5  |  1  | Shred, Rending (1)                   | 6      |
 | Shock Rifle                | 12" |  4  |  3  |  0  | Rending (2), Indirect                | 6      |
+| Nexian Blade               | 1"  |  3  |  4  |  2  | Assault                              | 5      |
 
 ### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
-| Nexian Blade               | 1"  |  3  |  4  |  2  | Assault                              | 5      |
 | Nexian Glaive              | 1"  |  5  |  5  |  2  | Assault                              | 7      |
 | Particle Beam Emitter      | 48" |  1  |  6  |  3  | Accurate, Destructive (4), Shred, Heavy | 18  |
 | Heavy Particle Reaper      | 24" |  4  |  6  |  2  | Shred, Rending (2), Heavy            | 10     |
