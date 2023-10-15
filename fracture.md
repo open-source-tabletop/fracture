@@ -6,12 +6,26 @@ Fracture is best played on a battlefield around 3ft by 4ft and is designed for 2
 
 A game of Fracture lasts for 4 rounds.
 
+### Morale
+
+As a battle progresses, units in your army will begin to feel the effects of intense battle, their will to fight may break, they may succumb to earlier wounds, be ordered to retreat from a hopeless situation, or any number of unexpected situations - the end result being the same, that the unit is no longer able to fight. To represent these events, armies which have lost at least 50% of their starting unit must begin making Morale Tests.
+
+When a unit suffers a wound that either causes it drop below half of its original models, or loses a wound while it's below half its original models, it must take a morale test. 
+
+- Roll a d6 for the unit and on a roll of 3+ it passes the test.
+- If there are any friendly models within 6 inches add 1 to the roll.
+- If there are any enemy models within 6 inches subtract 1 from the roll.
+
 ### Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
+| Commander | Friendly models within 6 inches of this model always pass the test for losing a command point when activating with 1. |
+| Cowardly | This unit automatically fails morale tests. |
+| Heroic | This unit rolls 2d6 for morale tests and chooses the best result. |
 | Long Shot | This weapon may add 8 inches to it's Range but if it does it reduces it's Attacks to 1. |
 | Overcharge | This weapon may add 1 to it's Attacks attribute, if it does so any Attack Roll of 1 counts as hitting the attacking model instead. |
+| Unbreakable | This unit automatically passes morale tests. |
 
 ## Building an Army
 
