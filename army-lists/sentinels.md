@@ -62,10 +62,8 @@ A Vanguard unit consists of 3-5 Vanguard models all in either Recon, Frontline, 
 | Vanguard in Heavy Armour       |  4  |  5" |  3+ |  2+ |  5  |  2  | Large, Steady             | 44     |
 
 - Each Vanguard must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms**, **Grenades**, and **Standard Weapons** lists.
-- One Vanguard may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
+- Two Vanguard may instead swap 1 weapon with a weapon from either the **Specialist Sidearms** or **Specialist Weapons** lists.
 - You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Camo Cloaks** upgrades.
-
-
 
 #### Argo Transport
 
@@ -78,8 +76,6 @@ An Argo Transport unit consists of 1 Argo Transport model.
 - An Argo Transport must be equipped with one weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may be equipped with an additional weapon from the **Mounted Secondary Weapons** list.
 - An Argo Transport may take the **Smoke Launchers** upgrade.
-
-
 
 ### Specialist Units
 
