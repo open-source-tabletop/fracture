@@ -44,11 +44,7 @@ A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, o
 - A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade.
 - A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
-
-
 ### Standard Units
-
-
 
 #### Vanguard Squad
 
