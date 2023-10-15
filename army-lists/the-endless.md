@@ -6,7 +6,7 @@
 
 #### Overlord
 
-An Overlord unit consists of 1 Overlord or Overlord on Command Ark.
+An Overlord unit consists of 1 Overlord or Overlord on Command Ark. You may only include one Overlord unit in your army.
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
@@ -14,6 +14,12 @@ An Overlord unit consists of 1 Overlord or Overlord on Command Ark.
 | Overlord on Command Ark        |  5  |  9" |  4+ |  3+ |  6  |  6  | Flying, Regeneration, Vehicle | 250    |
 
 #### Technomancer
+
+A Technomancer unit consists of 1 Technomancer model.
+
+| Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
+| :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
+| Technomancer                   |  5  |  6" |  3+ |  3+ |  4  |  4  | Regeneration                  | 50     |
 
 ### Standard Units
 
@@ -38,6 +44,10 @@ A Reanimator Swarm unit consists of 3-5 Reanimator Swarms.
 
 - Reanimator Swarms are equipped with **Micro Disruptors**.
 - Reanimator Swarms have the **Reanimation** ability.
+
+#### Servitors
+
+
 
 #### Transport Ark
 

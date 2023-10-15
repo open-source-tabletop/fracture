@@ -23,3 +23,4 @@ Recommended points for games of Fracture are 500-1000 points for smaller games w
 
 - [Sentinels](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/sentinels.md)
 - [Voidborn](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/voidborn.md)
+- [The Endless](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/the-endless.md)
