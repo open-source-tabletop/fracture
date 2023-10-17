@@ -2,7 +2,7 @@
 
 ## Army List
 
-- All models in tis army count as having the **Heroic** special rule.
+- All models in this army count as having the **Heroic** special rule.
 
 ### Command Units
 
