@@ -1,6 +1,14 @@
 # SENTINELS ARMY LIST
 
+
+
+
+
 # Command Units
+
+
+
+
 
 ## Commander
 
@@ -17,11 +25,15 @@ A Commander unit consists of 1 Commander model in either Recon, Frontline, Assau
 
 #### Weapons and Equipment
 
-A Commander may select 2 weapon from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Commander may also select 1 weapon from the **Grenades** weapon list.
+A Commander may select 2 weapons from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Commander may also select 1 weapon from the **Grenades** weapon list.
 
 #### Upgrades
 
 A Commander in Recon Armour may take the **Advanced Scouts** and **Adaptive Camo** upgrades. A Commander in Assault or Heavy Armour may take the **Combat Shield** upgrade. A Commander in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
+
+
+
+
 
 ## Lieutenant
 
@@ -38,13 +50,21 @@ A Lieutenant unit consists of 1 Lieutenant model in Recon, Frontline, Assault, o
 
 #### Weapons and Equipment
 
-A Lieutenant may select 2 weapon from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Lieutenant may also select 1 weapon from the **Grenades** weapon list.
+A Lieutenant may select 2 weapons from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Lieutenant may also select 1 weapon from the **Grenades** weapon list.
 
 #### Upgrades
 
 A Lieutenant in Recon Armour may take the **Advanced Scouts** and **Adaptive Camo** upgrades. A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade. A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
+
+
+
+
 # Standard Units
+
+
+
+
 
 ## Vanguard Squad
 
@@ -67,6 +87,10 @@ Each Vanguard must be equipped with the same weapons, you may select 1 weapon ea
 
 You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Adaptive Camo** upgrades.
 
+
+
+
+
 ## Argo Transport
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
@@ -85,7 +109,15 @@ An Argo Transport must be equipped with 1-2 weapons from the **Mounted Secondary
 
 An Argo Transport may take the **Smoke Launchers** upgrade.
 
+
+
+
+
 # Specialist Units
+
+
+
+
 
 ## Specialist Squad
 
@@ -108,6 +140,10 @@ Each Specialist must be equipped with the same weapons, you may select 1 weapon 
 
 You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Adaptive Camo** upgrades. You may upgrade all Specialists with the **Combat Shield** upgrade.
 
+
+
+
+
 ## Colossus Battle Suit
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
@@ -126,6 +162,10 @@ A Colossus Battle Suit is equipped with 2 choices from the **Mounted Primary Wea
 
 A Colossus Battle Suit may take the **Smoke Launchers** upgrade.
 
+
+
+
+
 ## Assault Bikes
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
@@ -139,6 +179,10 @@ An Assault Bike unit consists of 3-5 Assault Bike models.
 #### Weapons and Equipment
 
 Each Assault Bike must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms** and **Mounted Secondary Weapons** lists. One Assault Bike may replace its **Standard Sidearms** weapon with a choice from the **Specialist Sidearms** weapon list.
+
+
+
+
 
 ## Cerberus Tank
 
@@ -157,6 +201,10 @@ A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weap
 #### Upgrades
 
 A Cerberus Tank may take the **Smoke Launchers** upgrade.
+
+
+
+
 
 # Weapon Lists
 
@@ -232,6 +280,10 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Colossus Melee Weapon      | 1"  |  2  |  6  |  2  | Assault, Destructive (3), Rapid Fire (3) | 40 |
 
+
+
+
+
 # Upgrades
 
 | Upgrade | Effect | Points |
@@ -241,6 +293,10 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Combat Shield | This model may gains the Resilient special rule. | 18 |
 | Energy Shields | This model gains the Shields special rule. | 18 |
 | Smoke Launchers | One use. This upgrade may be used after this model has completed its activation. Attacks against this model from more than 9 inches away count clear line of sight as obscured until this model moves, or until the end of the round, whichever comes first. | 10 |
+
+
+
+
 
 # Sentinel Mission
 

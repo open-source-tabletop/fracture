@@ -1,6 +1,14 @@
 # VOIDBORN CORSAIRS ARMY LIST
 
+
+
+
+
 # Command Units
+
+
+
+
 
 ## High Lord
 
@@ -14,11 +22,15 @@ A High Lord unit consists of 1 High Lord model. You may only include 1 High Lord
 
 #### Weapons and Equipment
 
-A High Lord may select 2 weapon from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A High Lord may also select 1 weapon from the **Grenades** weapon list.
+A High Lord may select 2 weapons from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A High Lord may also select 1 weapon from the **Grenades** weapon list.
 
 #### Upgrades
 
 A High Lord may take up to 2 of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
+
+
+
+
 
 ## Paragon
 
@@ -32,13 +44,21 @@ A Paragon unit consists of 1-3 Paragon models.
 
 #### Weapons and Equipment
 
-A Paragon may select 2 weapon from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Paragon may also select 1 weapon from the **Grenades** weapon list.
+A Paragon may select 2 weapons from either the **Standard Sidearms**, **Specialist Sidearms**, **Standard Weapons** or **Specialist Weapons** lists. A Paragon may also select 1 weapon from the **Grenades** weapon list.
 
 #### Upgrades
 
 A Paragon may take 1 of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
 
+
+
+
+
 # Standard Units
+
+
+
+
 
 ## Raiders
 
@@ -58,8 +78,11 @@ Each Raider must be equipped with the same weapons, you may select 1 weapon each
 
 You may upgrade all Raiders with the **Mirage Cloaks** upgrade.
 
-## Voidstrider Transport
 
+
+
+
+## Voidstrider Transport
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
@@ -77,7 +100,15 @@ A Voidstrider transport may be equipped with up to 2 weapons from the **Mounted 
 
 A Voidstrider Transport may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
+
+
+
+
 # Specialist Units
+
+
+
+
 
 ## Oathsworn
 
@@ -97,6 +128,10 @@ Each Oathsworn must be equipped with the same weapons: you may select 1 weapon e
 
 You may upgrade all Oathsword with 1 of the following upgrades: **Mirage Cloak**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
 
+
+
+
+
 ## Construct Wardens
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
@@ -114,6 +149,10 @@ Each Construct Warden must be equipped with the same weapons: you may choose 1-2
 #### Upgrades
 
 You may upgrade all Construct Wardens with the **Soul Forge**, **Path of the Warrior**, or **Path of the Hunter** upgrade.
+
+
+
+
 
 ## Construct Lord
 
@@ -133,6 +172,10 @@ A Construct Lord may be equipped with 2 weapons: 1 weapon from the **Mounted Pri
 
 You may upgrade a Construct Lord with the **Organic Circuitry** or **Mirage Emitters** upgrade.
 
+
+
+
+
 ## Reavers
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
@@ -150,6 +193,10 @@ Each Reaver must be equipped with the same weapons, you may choose 1 weapon from
 #### Upgrades
 
 You may upgrade all Reavers with either the **Mirage Emitters** or **Nova Boost** upgrade.
+
+
+
+
 
 ## Shrikes
 
@@ -169,6 +216,10 @@ A Shrike model may be equipped with up to 3 weapons: up to 1 weapon from the **M
 
 A Shrike may take the **Mirage Emitters**, **Nova Boost** or **Organic Circuitry** upgrade.
 
+
+
+
+
 ## Voidstrider 
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
@@ -185,6 +236,10 @@ A Voidstrider may be equipped with 1 weapon from the **Mounted Primary Weapons**
 #### Upgrades
 
 A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
+
+
+
+
 
 # Weapons
 
@@ -251,6 +306,10 @@ A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
 | Construct Lord Phaseblade  | 2"  |  3  |  5  |  2  | Rapid Fire (1)                            | 18     |
+
+
+
+
 
 # Upgrades
 
