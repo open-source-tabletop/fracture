@@ -22,7 +22,7 @@ At the end of any attack in which a unit loses a model, if it is then below half
 | :----------- | :----- |
 | Commander | Friendly models within 6 inches of this model always pass the test for losing a command point when activating with 1. |
 | Cowardly | This unit automatically fails morale tests. |
-| Heroic | This unit rolls 2d6 for morale tests and chooses the best result. |
+| Heroic | This unit may re-roll failed morale tests. |
 | Long Shot | This weapon may add 8 inches to it's Range but if it does it reduces it's Attacks to 1. |
 | Overcharge | This weapon may add 1 to it's Attacks attribute, if it does so any Attack Roll of 1 counts as hitting the attacking model instead. |
 | Unbreakable | This unit automatically passes morale tests. |
