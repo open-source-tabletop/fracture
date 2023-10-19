@@ -20,7 +20,6 @@ At the end of any attack in which a unit loses a model, if it is then below half
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Commander | Friendly models within 6 inches of this model always pass the test for losing a command point when activating with 1. |
 | Cowardly | This unit automatically fails morale tests. |
 | Heroic | This unit may re-roll failed morale tests. |
 | Long Shot | This weapon may add 8 inches to it's Range but if it does it reduces it's Attacks to 1. |

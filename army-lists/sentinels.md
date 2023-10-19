@@ -188,7 +188,7 @@ Each Assault Bike must be equipped with the same weapons, you may select 1 weapo
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (1) | 300    |
+| Cerberus Tank                  |  4  |  8" |  3+ |  2+ |  8  |  6  | Vehicle, Heavy Armour (2) | 300    |
 
 #### Unit Composition
 
@@ -220,7 +220,7 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Arc Sword                  | 1"  |  3  |  4  |  3  | Assault, Rapid Fire (1), Rending (1) | 15     |
-| Fusion Pistol              | 6"  |  1  |  6  |  3  | Assault, Destructive (2)             | 12     |
+| Fusion Pistol              | 6"  |  1  |  6  |  3  | Assault, Destructive (2)             | 10     |
 | Incinerator Pistol         | 5"  |  5  |  3  |  0  | Blast (2), Torrent                   | 9      |
 | Plasma Pistol              | 8"  |  1  |  5  |  2  | Assault, Overcharge                  | 12     |
 
