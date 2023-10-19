@@ -6,9 +6,9 @@
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
-| Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  | Heroic                      | 60     |
-| Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  | Heroic                      | 85     |
-| Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Heroic, Flying, Large       | 100    |
+| Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  |                             | 60     |
+| Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  |                             | 85     |
+| Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Flying, Large               | 100    |
 | Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large, Platform (1), Steady | 125    |
 
 #### Unit Composition
