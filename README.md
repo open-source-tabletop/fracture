@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a diverse sci-fi tabletop wargame made with the [Cadence Wargame System](https://cadence.games). It offers a wide range of factions and is suitable for a large variety of miniatures.
+Fracture is a sci-fi tabletop wargame made with the [Cadence Wargame System](https://cadence.games) suitable for a large variety of miniatures and is a great entry point for players coming from other games.
 
 ## Play Fracture
 
