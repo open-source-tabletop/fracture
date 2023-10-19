@@ -112,7 +112,7 @@ You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
-| Colossus Battle Suit           |  4  |  8" |  3+ |  2+ |  7  |  5  | Heavy Armour (1), Vehicle | 220    |
+| Colossus Battle Suit           |  4  |  8" |  3+ |  2+ |  7  |  5  | Heavy Armour (1), Vehicle | 200    |
 
 #### Unit Composition
 
@@ -156,7 +156,7 @@ A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weap
 
 #### Upgrades
 
-- A Cerberus Tank may take the **Smoke Launchers** upgrade.
+A Cerberus Tank may take the **Smoke Launchers** upgrade.
 
 # Weapon Lists
 
