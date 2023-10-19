@@ -8,9 +8,9 @@ A game of Fracture lasts for 4 rounds.
 
 ### Morale
 
-As a battle progresses, units in your army will begin to feel the effects of intense battle, their will to fight may break, they may succumb to earlier wounds, be ordered to retreat from a hopeless situation, or any number of unexpected situations - the end result being the same, that the unit is no longer able to fight. To represent these events, armies which have lost at least 50% of their starting unit must begin making Morale Tests.
+As a battle progresses, units in your army will begin to feel the effects of intense battle, their will to fight may break, they may succumb to earlier wounds, be ordered to retreat from a hopeless situation, or any number of unexpected situations - the end result being the same, that the unit is no longer able to fight. To represent these events, armies which have lost at least 50% of their starting units must begin making Morale Tests. Any unit that fails this test is removed from the game as though it had been destroyed.
 
-When a unit suffers a wound that either causes it drop below half of its original models, or loses a wound while it's below half its original models, it must take a morale test. 
+At the end of any attack in which a unit loses a model, if it is then below half of its original number of modele, it must take a morale test:
 
 - Roll a d6 for the unit and on a roll of 3+ it passes the test.
 - If there are any friendly models within 6 inches add 1 to the roll.
