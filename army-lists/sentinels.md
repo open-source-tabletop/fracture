@@ -6,10 +6,10 @@
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
-| Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  | Heroic                      | 80     |
-| Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  | Heroic                      | 105    |
-| Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Heroic, Flying, Large       | 125    |
-| Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large, Platform (1), Steady | 175    |
+| Commander in Recon Armour      |  6  |  6" |  2+ |  4+ |  5  |  5  | Heroic                      | 60     |
+| Commander in Frontline Armour  |  6  |  6" |  2+ |  3+ |  5  |  5  | Heroic                      | 85     |
+| Commander in Assault Armour    |  6  |  8" |  2+ |  3+ |  5  |  5  | Heroic, Flying, Large       | 100    |
+| Commander in Heavy Armour      |  5  |  5" |  2+ |  2+ |  6  |  5  | Large, Platform (1), Steady | 125    |
 
 #### Unit Composition
 
@@ -27,10 +27,10 @@ A Commander in Recon Armour may take the **Advanced Scouts** and **Adaptive Camo
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
-| Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                             | 40     |
-| Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                             | 60     |
-| Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large               | 78     |
-| Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large, Platform (1), Steady | 110    |
+| Lieutenant in Recon Armour     |  5  |  6" |  2+ |  4+ |  4  |  4  |                             | 38     |
+| Lieutenant in Frontline Armour |  5  |  6" |  2+ |  3+ |  4  |  4  |                             | 56     |
+| Lieutenant in Assault Armour   |  5  |  8" |  2+ |  3+ |  4  |  4  | Flying, Large               | 72     |
+| Lieutenant in Heavy Armour     |  4  |  5" |  2+ |  2+ |  5  |  4  | Large, Platform (1), Steady | 95     |
 
 #### Unit Composition
 
