@@ -4,5 +4,5 @@ Fracture is a diverse sci-fi tabletop wargame made with the [Cadence Wargame Sys
 
 ## Play Fracture
 
-- [Play Fracture](https://github.com/open-source-tabletop/fracture/blob/main/fracture-recon/fracture.md)
+- [Play Fracture](https://github.com/open-source-tabletop/fracture/blob/main/fracture.md)
 - [Fracture on Cadence.Games](https://cadence.games/fracture/)
