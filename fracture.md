@@ -2,7 +2,9 @@
 
 In the wake of the cataclysmic event known as the Fracture, the boundaries between dimensions have begun to break down, revealing a multiverse teeming with untold potential and peril. In this shifting tapestry of realities, powerful factions are thrown into a battle for survival and supremacy, each harnessing the boundless energy of fractured dimensions to forge their destiny.
 
-Fracture is a sci-fi wargame in an open-ended setting, players have the freedom to create their own unique faction from several core types, using any miniatures they want. Customize your forces, adapt your strategy, and tell your own stories.
+Fracture is a sci-fi wargame made with the [Cadence Wargame System](https://cadence.games), set in an open-ended setting, players have the freedom to create their own unique faction from several core types, using any miniatures they want. Customize your forces, adapt your strategy, and tell your own stories.
+
+> Fracture is a great entry point for players coming from other sci-fi games with existing armies but is not designed as a 1:1 proxy for those games.
 
 ## Playing Fracture
 
