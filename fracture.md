@@ -1,5 +1,9 @@
 # Fracture
 
+In the wake of the cataclysmic event known as the Fracture, the boundaries between dimensions have begun to break down, revealing a multiverse teeming with untold potential and peril. In this shifting tapestry of realities, powerful factions are thrown into a battle for survival and supremacy, each harnessing the boundless energy of fractured dimensions to forge their destiny.
+
+Fracture is a sci-fi wargame in an open-ended setting, players have the freedom to create their own unique faction from several core types, using any miniatures they want. Customize your forces, adapt your strategy, and tell your own stories.
+
 ## Playing Fracture
 
 Fracture is best played on a battlefield around 3ft by 4ft and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and larger games may include vehicles.
