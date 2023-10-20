@@ -32,13 +32,18 @@ At the end of any attack in which a unit loses a model, if it is then below half
 
 ## Building an Army
 
-Building your army for Fracture is simple, players agree a maximum number of points then choose their units from their army list, ensuring the total points cost for their models, weapons, and equipment don't exceed that maximum. In addition to the maximum points each player can spend there are also 3 categories of unit; Command, Standard, and Specialist. An army must be at least 25% (by points) Standard models, no more than 25% Command models, and no more than 50% Specialist models.
+Building your army for Fracture is simple, players agree a maximum number of points then choose their units from a suitable army list, ensuring the total points cost for their models, weapons, and equipment don't exceed that maximum. Each army list is designed to reflect a certain type of faction rather than one single entity, choose the one that best suits your chosen miniatures and play style.
+
+In addition to the maximum points each player can spend there are also 3 categories of unit; Command, Standard, and Specialist. An army must be at least 25% (by points) Standard models, no more than 25% Command models, and no more than 50% Specialist models.
 
 Recommended points for games of Fracture are 500-1000 points for smaller games which can be played on a 3ft by 4ft battlefield and up to 2000 for larger games with a larger battlefield.
 
 ## Army Lists
 
-- [Sentinels Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/sentinels.md)
+### [Sentinels Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/sentinels.md)
+
+Sentinels forces are highly advanced and incredibly powerful. Though often few in number their advanced weapons and armour make them a formidable foe on the battlefield.
+
 - [Marauders Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/marauders.md)
 - [The Endless Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/the-endless.md)
 - [The Swarm Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/the-swarm.md)
