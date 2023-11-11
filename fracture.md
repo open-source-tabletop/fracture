@@ -14,9 +14,9 @@ A game of Fracture lasts for 4 rounds.
 
 ### Morale
 
-As a battle progresses, units in your army will begin to feel the effects of intense battle, their will to fight may break, they may succumb to earlier wounds, be ordered to retreat from a hopeless situation, or any number of unexpected situations - the end result being the same, that the unit is no longer able to fight. To represent these events, armies which have lost at least 50% of their starting units must begin making Morale Tests. Any unit that fails this test is removed from the game as though it had been destroyed.
+As a battle progresses, units in your army will begin to feel the effects of intense battle, their will to fight may break, they may succumb to earlier wounds, be ordered to retreat from a hopeless situation, or any number of unexpected situations - the end result being the same, that the unit is no longer able to fight. To represent these events, starting in Round 2 units must begin making Morale Tests. Any unit that fails this test is removed from the game as though it had been destroyed.
 
-At the end of any attack in which a unit loses a model, if it is then below half of its original number of modele, it must take a morale test:
+At the end of any attack in which a unit loses a model, if it is then below half of its original number of models, it must take a morale test:
 
 - Roll a d6 for the unit and on a roll of 3+ it passes the test.
 - If there are any friendly models within 6 inches add 1 to the roll.
@@ -30,7 +30,7 @@ Control objectives in Fracture remain secured until an enemy unit attempts to se
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Cowardly | This unit automatically fails morale tests. |
+| Cowardly | This unit has -1 to all Morale tests. |
 | Heroic | This unit may re-roll failed morale tests. |
 | Long Shot | This weapon may add 8 inches to it's Range but if it does it reduces it's Attacks to 1. |
 | Overcharge | This weapon may add 1 to it's Attacks attribute, if it does so any Attack Roll of 1 counts as hitting the attacking model instead. |
@@ -52,7 +52,7 @@ Sentinels forces are highly advanced and incredibly powerful. Though often few i
 
 ### [Marauders Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/marauders.md)
 
-Marauders are disorganised and crude hordes. They may not have the best weapons, armour, or training,  or discipline, but they make up for it in numbers and a sheer willingness for a good fight.
+Marauders are disorganised and crude hordes. They may not have the best weapons, armour, or training... or discipline, but they make up for it in numbers and a sheer willingness for a good fight.
 
 ### [The Endless Army List](https://github.com/open-source-tabletop/fracture/blob/main/army-lists/the-endless.md)
 
