@@ -1,16 +1,12 @@
-# VOIDBORN CORSAIRS ARMY LIST
+# Voidborn Corsairs Army List
 
+---
 
+Enigmatic nomads, their fleets drift through new regions with little regard for those that claim to own these territories. With uncanny speed these raiders launch an attack only to evaporate into the void before a real resistance can be mounted.
 
+## Command Units
 
-
-# Command Units
-
-
-
-
-
-## High Lord
+### High Lord
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -28,11 +24,7 @@ A High Lord may select 2 weapons from either the **Standard Sidearms**, **Specia
 
 A High Lord may take up to 2 of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
 
-
-
-
-
-## Paragon
+### Paragon
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -50,17 +42,9 @@ A Paragon may select 2 weapons from either the **Standard Sidearms**, **Speciali
 
 A Paragon may take 1 of the following upgrades: **Mirage Cloak**, **Soul Forge**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
 
+## Standard Units
 
-
-
-
-# Standard Units
-
-
-
-
-
-## Raiders
+### Raiders
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -78,11 +62,7 @@ Each Raider must be equipped with the same weapons, you may select 1 weapon each
 
 You may upgrade all Raiders with the **Mirage Cloaks** upgrade.
 
-
-
-
-
-## Voidstrider Transport
+### Voidstrider Transport
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
@@ -100,17 +80,9 @@ A Voidstrider transport may be equipped with up to 2 weapons from the **Mounted 
 
 A Voidstrider Transport may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
+## Specialist Units
 
-
-
-
-# Specialist Units
-
-
-
-
-
-## Oathsworn
+### Oathsworn
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -128,11 +100,7 @@ Each Oathsworn must be equipped with the same weapons: you may select 1 weapon e
 
 You may upgrade all Oathsword with 1 of the following upgrades: **Mirage Cloak**, **Ghostwalk Augment**, **Windwalk Augment**, **Path of the Warrior**, or **Path of the Hunter**.
 
-
-
-
-
-## Construct Wardens
+### Construct Wardens
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -150,11 +118,7 @@ Each Construct Warden must be equipped with the same weapons: you may choose 1-2
 
 You may upgrade all Construct Wardens with the **Soul Forge**, **Path of the Warrior**, or **Path of the Hunter** upgrade.
 
-
-
-
-
-## Construct Lord
+### Construct Lord
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                     | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------------- | :----- |
@@ -172,11 +136,7 @@ A Construct Lord may be equipped with 2 weapons: 1 weapon from the **Mounted Pri
 
 You may upgrade a Construct Lord with the **Organic Circuitry** or **Mirage Emitters** upgrade.
 
-
-
-
-
-## Reavers
+### Reavers
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -194,11 +154,7 @@ Each Reaver must be equipped with the same weapons, you may choose 1 weapon from
 
 You may upgrade all Reavers with either the **Mirage Emitters** or **Nova Boost** upgrade.
 
-
-
-
-
-## Shrikes
+### Shrikes
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -216,11 +172,7 @@ A Shrike model may be equipped with up to 3 weapons: up to 1 weapon from the **M
 
 A Shrike may take the **Mirage Emitters**, **Nova Boost** or **Organic Circuitry** upgrade.
 
-
-
-
-
-## Voidstrider 
+### Voidstrider 
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
@@ -237,20 +189,16 @@ A Voidstrider may be equipped with 1 weapon from the **Mounted Primary Weapons**
 
 A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 
+## Weapons
 
-
-
-
-# Weapons
-
-## Standard Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
 | Nanoblade                  | 1"  |  3  |  3  |  1  | Assault, Shred                            | 1      |
 | Shard Pistol               | 8"  |  3  |  3  |  0  | Assault                                   | 1      |
 
-## Specialist Sidearms
+### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
@@ -259,7 +207,7 @@ A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 | Neuroblade                 | 1"  |  3  |  3  |  1  | Assault, Rending (2)                      | 4      |
 | Prismatic Pistol           | 10" |  3  |  4  |  1  | Assault                                   | 3      |
 
-## Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
@@ -269,7 +217,7 @@ A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 | Shard Rifle                | 20" |  4  |  3  |  0  | Rending (2)                               | 3      |
 | Shredder                   | 8"  |  4  |  4  |  1  | Assault, Blast (1), Rending (1)           | 13     |
 
-## Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
@@ -285,7 +233,7 @@ A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 | Reaper Disruptor Launcher  | 24" |  2  |  6  |  2  | Blast (1), Destructive (2), Heavy         | 28     |
 | Shard Cannon               | 28" |  4  |  5  |  1  | Heavy, Rending (2), Shred                 | 16     |
 
-## Mounted Primary Weapons
+### Mounted Primary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
@@ -294,24 +242,20 @@ A Voidstrider may take the **Mirage Emitters** or **Organic Circuitry** upgrade.
 | Prismatic Annihilator      | 32" |  3  |  5  |  2  | Blast (2), Destructive (3)                | 42     |
 | Twin Prismatic Annihilator | 32" |  3  |  5  |  2  | Blast (2), Destructive (3), Rapid Fire (1)| 42     |
 
-## Mounted Secondary Weapons
+### Mounted Secondary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
 | Heavy Shard Repeater       | 24" |  3  |  5  |  1  | Rapid Fire (1), Shred                     | 18     |
 | Prismatic Repeater         | 24" |  3  |  4  |  2  | Rapid Fire (2)                            | 28     |
 
-## Other Weapons
+### Other Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
 | Construct Lord Phaseblade  | 2"  |  3  |  5  |  2  | Rapid Fire (1)                            | 18     |
 
-
-
-
-
-# Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |

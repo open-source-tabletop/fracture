@@ -1,16 +1,12 @@
-# SENTINELS ARMY LIST
+# Sentinels Army List
 
+---
 
+Sentinels forces are highly advanced and incredibly powerful. Though often few in number their advanced weapons and armour make them a formidable foe on the battlefield.
 
+## Command Units
 
-
-# Command Units
-
-
-
-
-
-## Commander
+### Commander
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
@@ -31,11 +27,7 @@ A Commander may select 2 weapons from either the **Standard Sidearms**, **Specia
 
 A Commander in Recon Armour may take the **Advanced Scouts** and **Adaptive Camo** upgrades. A Commander in Assault or Heavy Armour may take the **Combat Shield** upgrade. A Commander in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
-
-
-
-
-## Lieutenant
+### Lieutenant
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
@@ -56,17 +48,9 @@ A Lieutenant may select 2 weapons from either the **Standard Sidearms**, **Speci
 
 A Lieutenant in Recon Armour may take the **Advanced Scouts** and **Adaptive Camo** upgrades. A Lieutenant in Assault or Heavy Armour may take the **Combat Shield** upgrade. A Lieutenant in Frontline, Assault, or Heavy Armour may take the **Energy Shields** upgrade.
 
+## Standard Units
 
-
-
-
-# Standard Units
-
-
-
-
-
-## Vanguard Squad
+### Vanguard Squad
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
@@ -87,11 +71,7 @@ Each Vanguard must be equipped with the same weapons, you may select 1 weapon ea
 
 You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Adaptive Camo** upgrades.
 
-
-
-
-
-## Argo Transport
+### Argo Transport
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -109,17 +89,9 @@ An Argo Transport must be equipped with 1-2 weapons from the **Mounted Secondary
 
 An Argo Transport may take the **Smoke Launchers** upgrade.
 
+## Specialist Units
 
-
-
-
-# Specialist Units
-
-
-
-
-
-## Specialist Squad
+### Specialist Squad
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- | :----- |
@@ -140,11 +112,7 @@ Each Specialist must be equipped with the same weapons, you may select 1 weapon 
 
 You may upgrade all Specialists in Recon Armour with the **Advanced Scouts** and **Adaptive Camo** upgrades. You may upgrade all Specialists with the **Combat Shield** upgrade.
 
-
-
-
-
-## Colossus Battle Suit
+### Colossus Battle Suit
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -162,11 +130,7 @@ A Colossus Battle Suit is equipped with 2 choices from the **Mounted Primary Wea
 
 A Colossus Battle Suit may take the **Smoke Launchers** upgrade.
 
-
-
-
-
-## Assault Bikes
+### Assault Bikes
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -180,11 +144,7 @@ An Assault Bike unit consists of 3-5 Assault Bike models.
 
 Each Assault Bike must be equipped with the same weapons, you may select 1 weapon each from the **Standard Sidearms** and **Mounted Secondary Weapons** lists. One Assault Bike may replace its **Standard Sidearms** weapon with a choice from the **Specialist Sidearms** weapon list.
 
-
-
-
-
-## Cerberus Tank
+### Cerberus Tank
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -202,20 +162,16 @@ A Cerberus Tank must be equipped with one weapon from the **Mounted Primary Weap
 
 A Cerberus Tank may take the **Smoke Launchers** upgrade.
 
+## Weapon Lists
 
-
-
-
-# Weapon Lists
-
-## Standard Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Combat Blade               | 1"  |  2  |  4  |  0  | Assault                              | 0      |
 | Enforcer Pistol            | 8"  |  2  |  4  |  1  | Assault                              | 3      |
 
-## Specialist Sidearms
+### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -224,7 +180,7 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Incinerator Pistol         | 5"  |  5  |  3  |  0  | Blast (2), Torrent                   | 9      |
 | Plasma Pistol              | 8"  |  1  |  5  |  2  | Assault, Overcharge                  | 12     |
 
-## Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -233,7 +189,7 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Enforcer SMG               | 16" |  4  |  3  |  0  | Rending (1)                          | 5      |
 | Sentinel Assault Blade     | 1"  |  4  |  4  |  1  | Assault, Shred                       | 4      |
 
-## Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -246,14 +202,14 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Missile Launcher           | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     |
 | Plasma Rifle               | 20" |  2  |  6  |  2  | Overcharge                           | 18     |
 
-## Grenades
+### Grenades
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | AP Grenade                 | 8"  |  3  |  6  |  3  | Blast (1), Inaccurate, Grenade       | 5      |
 | Fregmentation Grenade      | 8"  |  3  |  4  |  1  | Blast (2), Inaccurate, Grenade       | 2      |
 
-## Mounted Primary Weapons
+### Mounted Primary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -264,7 +220,7 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Plasma Cannon              | 28" |  4  |  7  |  3  | Blast (1), Overcharge, Heavy         | 48     |
 | Twin Heavy Autocannon      | 24" |  4  |  4  |  2  | Rapid Fire (1), Rending (1), Heavy   | 22     |
 
-## Mounted Secondary Weapons
+### Mounted Secondary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -274,17 +230,13 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Missile Launcher           | 18" |  2  |  8  |  3  | Blast (1), Destructive (2), Long Shot| 30     |
 | Mounted Incinerator        | 10" |  4  |  3  |  0  | Blast (2), Torrent                   | 8      |
 
-## Other Weapons
+### Other Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Colossus Melee Weapon      | 1"  |  2  |  6  |  2  | Assault, Destructive (3), Rapid Fire (3) | 40 |
 
-
-
-
-
-# Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |
@@ -294,13 +246,9 @@ A Cerberus Tank may take the **Smoke Launchers** upgrade.
 | Energy Shields | This model gains the Shields special rule. | 18 |
 | Smoke Launchers | One use. This upgrade may be used after this model has completed its activation. Attacks against this model from more than 9 inches away count clear line of sight as obscured until this model moves, or until the end of the round, whichever comes first. | 10 |
 
+## Sentinel Mission
 
-
-
-
-# Sentinel Mission
-
-## The Tip of the Spear
+### The Tip of the Spear
 
 Sentinel Forces, with their advanced weapons and armour, are often used as the first strike in an attack. This mission represents the Sentinels attempting to break the battle lines of an enemy army.
 

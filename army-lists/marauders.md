@@ -1,16 +1,12 @@
-# MARAUDERS ARMY LIST
+# Marauders Army List
 
+---
 
+Marauders are disorganised and crude hordes. They may not have the best weapons, armour, or training... or discipline, but they make up for it in numbers and a sheer willingness for a good fight.
 
+## Command Units
 
-
-# Command Units
-
-
-
-
-
-## Warlord
+### Warlord
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -29,11 +25,7 @@ A Warlord may select 2 weapons from either the **Standard Sidearms**, **Speciali
 
 This model may take the **Big Boss** upgrade.
 
-
-
-
-
-## Brutes
+### Brutes
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -52,17 +44,9 @@ A Brute may select 2 weapons from either the **Standard Sidearms**, **Specialist
 
 This model may take the **Big Boss** upgrade.
 
+## Standard Units
 
-
-
-
-# Standard Units
-
-
-
-
-
-## Grunts
+### Grunts
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -80,11 +64,7 @@ Each Grunt must be equipped with the same weapons, you may select 1 weapon each 
 
 Every Grunt model may be given the **Commandos** or **Rocket Pack** upgrade.
 
-
-
-
-
-## Hauler
+### Hauler
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -98,17 +78,9 @@ A Hauler unit consists of 1 Hauler. You may include 1 Hauler unit in your army f
 
 A Hauler may take 1-2 weapons from the **Mounted Secondary Weapons** list.
 
+## Specialist Units
 
-
-
-
-# Specialist Units
-
-
-
-
-
-## Wreckers
+### Wreckers
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -127,11 +99,7 @@ Each Wrecker must be equipped with the same weapons, you may select 2 weapons fr
 
 Every model in this unit can be given the **Hulking Form** upgrade.
 
-
-
-
-
-## Bikers
+### Bikers
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -149,11 +117,7 @@ Each Biker must be equipped with the same weapons, you may select 1 weapon each 
 
 Every Biker model may be given the **Fuel Injection** upgrade.
 
-
-
-
-
-## Scrapper Tank
+### Scrapper Tank
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
@@ -167,27 +131,23 @@ A Scrapper Tank unit consists of 1 Hauler. You may include 1 Hauler unit in your
 
 A Scrapper Tank may take 1 weapon from the **Mounted Primary Weapons** list and up to 2 weapons from the **Mounted Secondary Weapons** list.
 
+## Weapons
 
-
-
-
-# Weapons
-
-## Standard Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
 | Slugger Pistol             | 6"  |  2  |  3  |  0  | Assault                                          | 0      |
 | Combat Blade               | 1"  |  2  |  4  |  0  | Assault                                          | 0      |
 
-## Specialist Sidearms
+### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
 | Spitfire                   | 6"  |  3  |  5  |  1  | Assault, Shred                                   | 4      |
 | Bonecrusher                | 1"  |  3  |  4  |  1  | Assault, Rapid Fire (1)                          | 4      |
 
-## Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -195,14 +155,14 @@ A Scrapper Tank may take 1 weapon from the **Mounted Primary Weapons** list and 
 | Slammer                    | 10" |  4  |  4  |  1  | Rending (1), Shred                               | 5      |
 | Cleaver                    | 1"  |  4  |  4  |  0  | Assault                                          | 2      |
 
-## Grenades
+### Grenades
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
 | HE Grenade                 | 8"  |  3  |  6  |  3  | Blast (1), Inaccurate, Grenade                   | 5      |
 | Freg Grenade               | 8"  |  3  |  4  |  1  | Blast (2), Inaccurate, Grenade                   | 2      |
 
-## Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -213,7 +173,7 @@ A Scrapper Tank may take 1 weapon from the **Mounted Primary Weapons** list and 
 | Plasma Destabiliser        | 20" |  3  |  7  |  2  | Volatile                                         | 12     |
 | Crushing Claw              | 1"  |  3  |  6  |  2  | Assault, Destructive (2)                         | 11     |
 
-## Mounted Primary Weapons
+### Mounted Primary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -221,7 +181,7 @@ A Scrapper Tank may take 1 weapon from the **Mounted Primary Weapons** list and 
 | Blitz Cannon               | 30" |  5  |  6  |  2  | Rending (2), Heavy                               | 30     |
 | Cyclone Cannon             | 24" |  4  |  4  |  0  | Rending (2), Rapid Fire (3)                      | 24     |
 
-## Mounted Secondary Weapons
+### Mounted Secondary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -229,11 +189,7 @@ A Scrapper Tank may take 1 weapon from the **Mounted Primary Weapons** list and 
 | Heavy Scorcher             | 8"  |  5  |  4  |  1  | Blast (2), Torrent, Rending (2)                  | 10     |
 | Heavy Scatterguns          | 20" |  6  |  3  |  1  |                                                  | 4      |
 
-
-
-
-
-# Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |

@@ -1,16 +1,12 @@
-# THE SWARM ARMY LIST
+# The Swarm Army List
 
+---
 
+Driven by an unknowable intelligence to expand their territory and eradicate all other life, the creatures of the Swarm are an ever present threat.
 
+## Command Units
 
-
-# Command Units
-
-
-
-
-
-## Tyrant Clade
+### Tyrant Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                      | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------- | :----- |
@@ -28,17 +24,9 @@ A Tyrant may be equipped with up to 3 weapons: Up to 1 from the **Heavy Weapons*
 
 A Tyrant may take either the **Large Wings Adaptation** or **Thick Carapace Adaption** upgrade.
 
+## Standard Units
 
-
-
-
-# Standard Units
-
-
-
-
-
-## Drone Clade
+### Drone Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -56,11 +44,7 @@ Each Drone must be equipped with the same weapon. Drones may be equipped with 1 
 
 Every Drone may be upgraded with the **Swift Adaptation** or the **Stealth Adaptation**.
 
-
-
-
-
-## Warrior Clade
+### Warrior Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -78,17 +62,9 @@ Each Warrior model must be equipped with the same weapons. You may select up to 
 
 Every Warrior model may be given the **Ferocity Adaptation** upgrade.
 
+## Specialist Units
 
-
-
-
-# Specialist Units
-
-
-
-
-
-## Adaptive Drone Clade
+### Adaptive Drone Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -106,9 +82,7 @@ Each Adaptive Drone must be equipped with the same weapon. Adaptive Drones may b
 
 Every Adaptive Drone may be upgraded with the **Swift Adaptation**, **Stealth Adaptation**, or **Armour Adaptation** upgrade.
 
-
-
-## Brute Clade
+### Brute Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -126,13 +100,9 @@ A Brute may select 1 weapon from the **Heavy Weapons** list and up to 2 weapons 
 
 This model may take the **Regenerative Adaptation** upgrade.
 
+## Weapons
 
-
-
-
-# Weapons
-
-## Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -141,14 +111,14 @@ This model may take the **Regenerative Adaptation** upgrade.
 | Spiker                     | 16" |  2  |  5  |  1  | Destructive (2)                                  | 4      |
 | Venom Bite                 | 1"  |  3  |  4  |  0  | Assault, Shred                                   | 1      |
 
-## Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
 | Acidic Barrage             | 12" |  4  |  4  |  2  | Blast (2), Destructive (2)                       | 10     |
 | Boneblades                 | 1"  |  4  |  4  |  2  | Assault, Rapid Fire (1), Shred                   | 8      |
 
-## Heavy Weapons
+### Heavy Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
@@ -159,10 +129,7 @@ This model may take the **Regenerative Adaptation** upgrade.
 | Neural Blast               | 3"  |  6  |  4  |  4  | Assault, Shred, Heavy                            | 30     |
 | Spike Cannon               | 12" |  3  |  6  |  3  | Heavy                                            | 18     |
 
-
-
-
-# Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |
@@ -174,11 +141,7 @@ This model may take the **Regenerative Adaptation** upgrade.
 | Swift Adaptation | This model gains +3 to it's Movement attribute. | 2 |
 | Thick Carapace Adaptation | This model has a Defence of 2+ | 20 |
 
-
-
-
-
-# Special Rules
+## Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |

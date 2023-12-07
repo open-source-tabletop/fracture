@@ -1,16 +1,12 @@
-# THE ENDLESS ARMY LIST
+# The Endless Army List
 
+---
 
+Ruthless and ancient beings, once assured of their ultimate supremacy now find themselves surrounded by lesser beings. Unburdened by doubt and with an unwavering resolve their armies march once again into war.
 
+## Command Units
 
-
-# Command Units
-
-
-
-
-
-## Lord Ascendant
+### Lord Ascendant
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
@@ -28,11 +24,7 @@ A Lord Ascendant may select 2 weapons: 1-2 from either the **Standard Sidearms**
 
 A Lord Ascendant may take the **Cloak of Ancients** and **Resurrection Shard** upgrades.
 
-
-
-
-
-## Lord Ascendant on Command Ark
+### Lord Ascendant on Command Ark
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
@@ -48,17 +40,9 @@ A Lord Ascendant on Command Ark may select 1 weapon from either the **Standard S
 
 #### Upgrades
 
+## Standard Units
 
-
-
-
-# Standard Units
-
-
-
-
-
-## Warrior Host
+### Warrior Host
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -77,11 +61,7 @@ Each Warrior or Warrior Protean must be equipped with the same weapon, you must 
 
 Every Warrior or Warrior Protean may take the **Endless Horde** upgrade.
 
-
-
-
-
-## Reanimator Swarm
+### Reanimator Swarm
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -95,11 +75,7 @@ A Reanimator Swarm unit consists of 3-5 Reanimator Swarms.
 
 Reanimator Swarms are equipped with **Micro Disruptors**. Reanimator Swarms have the **Reanimation** ability.
 
-
-
-
-
-## Transport Ark
+### Transport Ark
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
@@ -113,13 +89,9 @@ A Transport Ark unit consists of 1 Transport Ark. You may take 1 Transport Ark u
 
 A Transport Ark may take 1 weapon from the **Mounted Secondary Weapons** list.
 
-# Specialist Units
+## Specialist Units
 
-
-
-
-
-## Protean Adapts
+### Protean Adapts
 
 | Model                          | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :----------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----- |
@@ -137,27 +109,23 @@ Each Protean Adapt must be equipped with the same weapons: you must select 1 wea
 
 You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Protean Stalker Frame** upgrade.
 
+## Weapons
 
-
-
-
-# Weapons
-
-## Standard Sidearms
+### Standard Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Particle Caster            | 4"  |  3  |  3  |  0  | Assault                              | 1      |
 | Rending Claws              | 1"  |  2  |  4  |  0  | Rending (2)                          | 1      |
 
-## Specialist Sidearms
+### Specialist Sidearms
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
 | Neural Disintegrator       | 6"  |  4  |  4  |  1  | Assault, Torrent, Shred              | 4      |
 | Voidlight Blade            | 1"  |  3  |  6  |  3  | Assault, Rapid Fire (2)              | 15     |
 
-## Standard Weapons
+### Standard Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -167,7 +135,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Shock Rifle                | 12" |  4  |  3  |  0  | Rending (2), Indirect                | 6      |
 | Nexian Blade               | 1"  |  3  |  4  |  2  | Assault                              | 5      |
 
-## Specialist Weapons
+### Specialist Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -177,7 +145,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Shock Cannon               | 18" |  8  |  3  |  0  | Rending (2), Indirect                | 10     |
 | Disruptor Array            | 6"  |  3  |  3  |  1  | Assault, Shred, Rapid Fire (4)       | 15     |
 
-## Mounted Primary Weapons
+### Mounted Primary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -185,7 +153,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Fusion Beam                | 18" |  4  |  7  |  4  | Destructive (2), Blast (2), Volley   | 38     |
 | Plasma Obliterator         | 32" |  3  |  7  |  3  | Shred, Accurate                      | 34     |
 
-## Mounted Secondary Weapons
+### Mounted Secondary Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -193,7 +161,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Particle Reaper            | 18" |  3  |  5  |  1  | Shred, Rending (1)                   | 6      |
 | Heavy Shock Cannon         | 24" |  8  |  5  |  1  | Rending (2), Indirect                | 20     |
 
-## Other Weapons
+### Other Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                        | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------- | :----- |
@@ -207,11 +175,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Necroflux Gauntlet         | 1"  |  3  |  5  |  1  | Assault, Rapid Fire (3)              | 18     |
 | Entropic Resonator         | 12" |  3  |  4  |  2  | Entropy                              | 6      |
 
-
-
-
-
-# Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----: |
@@ -221,11 +185,7 @@ You may upgrade all Protean Adapts with the **Protean Hover Frame** or the **Pro
 | Resurrection Shard | One use. This model may select a friendly Warrior Host or Protean Adapt unit within 6 inches. That unit restores any damaged models to their full hit points and up to 5 destroyed models return with their full hit points. | 22 |
 | Endless Horde | This model gains the Reanimation special rule but only targets itself when using it. | 1 |
 
-
-
-
-
-# Special Rules
+## Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
