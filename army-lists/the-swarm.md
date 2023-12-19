@@ -4,6 +4,8 @@
 
 Driven by an unknowable intelligence to expand their territory and eradicate all other life, the creatures of the Swarm are an ever present threat.
 
+---
+
 ## Command Units
 
 ### Tyrant Clade
@@ -23,6 +25,28 @@ A Tyrant may be equipped with up to 3 weapons: Up to 1 from the **Heavy Weapons*
 #### Upgrades
 
 A Tyrant may take either the **Large Wings Adaptation** or **Thick Carapace Adaption** upgrade.
+
+---
+
+### Psionic Queen
+
+| Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                       | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------- | :----- |
+| Psionic Queen              |  6  | 6"  |  3+ |  5+ |  5  |  6  | Psionic Field, Steady, Swarm Leader | 35     |
+
+#### Unit Composition
+
+A Psionic Queen unit consists of 1 Psionic Queen models. You may only include 1 Psionic Queen in you army.
+
+#### Weapons and Equipment
+
+A Psionic Queen must be equipped with a **Neural Blast** or a **Psionic Blast** and must also take **Razor Claws**.
+
+#### Upgrades
+
+A Psionic Queen must choose 2 or 3 of the following upgrades: **Regeneration Adaptation**, **Thick Carapace Adaptation**, **Psionic Urging**, **Psionic Fury**, or **Psionic Regeneration**.
+
+---
 
 ## Standard Units
 
@@ -44,6 +68,8 @@ Each Drone must be equipped with the same weapon. Drones may be equipped with 1 
 
 Every Drone may be upgraded with the **Swift Adaptation** or the **Stealth Adaptation**.
 
+---
+
 ### Warrior Clade
 
 | Model                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
@@ -61,6 +87,8 @@ Each Warrior model must be equipped with the same weapons. You may select up to 
 #### Upgrades
 
 Every Warrior model may be given the **Ferocity Adaptation** upgrade.
+
+---
 
 ## Specialist Units
 
@@ -81,6 +109,8 @@ Each Adaptive Drone must be equipped with the same weapon. Adaptive Drones may b
 #### Upgrades
 
 Every Adaptive Drone may be upgraded with the **Swift Adaptation**, **Stealth Adaptation**, or **Armour Adaptation** upgrade.
+
+---
 
 ### Brute Clade
 
@@ -129,6 +159,12 @@ This model may take the **Regenerative Adaptation** upgrade.
 | Neural Blast               | 3"  |  6  |  4  |  4  | Assault, Shred, Heavy                            | 30     |
 | Spike Cannon               | 12" |  3  |  6  |  3  | Heavy                                            | 18     |
 
+### Other Weapons
+
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                                    | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :----------------------------------------------- | :----- |
+| Psionic Blast              | 9"  |  6  |  4  |  4  | Shred, Blast (3)                                 | 40     |
+
 ## Upgrades
 
 | Upgrade | Effect | Points |
@@ -140,9 +176,13 @@ This model may take the **Regenerative Adaptation** upgrade.
 | Stealth Adaptation | This model gains the Stealth (12") special rule. | 2 |
 | Swift Adaptation | This model gains +3 to it's Movement attribute. | 2 |
 | Thick Carapace Adaptation | This model has a Defence of 2+ | 20 |
+| Psionic Urging | Ability (1 Command Point): This model targets a friendly unit within 6 inches. That unit gains +1 Command Point, this may not take it's Command Points above it's initial value. | 40 |
+| Psionic Fury | Ability (1 Command Point): This model targets a friendly unit within 6 inches. At the end of this models activation the targeted unit may make a free Attack action, however any weapon used gains the **Volatile** special rule for that attack. | 30 |
+| Psionic Regeneration | Friendly models within 6 inches of this model gain +1 to their Counter rolls and may never have their Defence Rolls lowered below a 6+. | 35 |
 
 ## Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
 | Swarm Leader | Friendly models within 6 inches of this model automatically pass Morale Tests. |
+| Psionic Field | This model always passes a Defence Roll on a physical roll of a 6 regardless of modifiers. |
